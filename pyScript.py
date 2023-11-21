@@ -5,9 +5,16 @@ import pandas as pd
 from IPython.display import HTML
 from datetime import datetime, timedelta
 import sqlite3
+import logging
 
 current_date = datetime.now().strftime('%d.%m.%Y')
+
+
+#Формат логов
+format = "%(asctime)s: %(message)s"
+logging.basicConfig(filename = "logs/Script/logs_" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 current_date = datetime.strptime(current_date, '%d.%m.%Y')
+
 html_string_start = '''
 <html>
     <title>Мониторинг установок Техэксперт | СУНТД</title>
@@ -74,6 +81,7 @@ html_string_end = '''
 username = "kodeks"
 #username1
 password1 = "skedoks"
+password2 = "skedok"
 password = "kodeks"
 headers1 = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
 
@@ -115,13 +123,13 @@ def IsError(url):
     try: r = requests.head(url)
     except:
         r = requests.head("https://esia.gosuslugi.ru/")
-        print("trouble")
+        logging.info("url whith trouble: " + url)
         return False
     if r.status_code == (200):
         return True
     else: return False
 
-def aunt(line, headers1, username, password, password1):
+def aunt(line, headers1, username, password, password1, password2):
     session = requests.Session()
     try:
         r = session.get(line, headers = {'User-Agent': headers1})
@@ -136,11 +144,18 @@ def aunt(line, headers1, username, password, password1):
             text = response.text
             return text
         else:
-            session.auth = (username, password1)
-            response = session.get(line)
-            if response.ok:
-                text = response.text
-                return text
+            try:
+                session.auth = (username, password1)
+                response = session.get(line)
+                if response.ok:
+                    text = response.text
+                    return text
+            except:
+                session.auth = (username, password2)
+                response = session.get(line)
+                if response.ok:
+                    text = response.text
+                    return text
     except:
         text = ""
         return text
@@ -150,7 +165,7 @@ cursor = conn.cursor()
 sqlite_select_query = """SELECT * from NewBases WHERE SUNTD = 1 ORDER BY HostPort """
 cursor.execute(sqlite_select_query)
 records = cursor.fetchall()
-print("Всего строк:  ", len(records))
+logging.info("Всего строк:  " + str(len(records)))
 for row in records:
     # считываем строку
     line = row[0]
@@ -159,9 +174,9 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    text = aunt(line1, headers1, username, password, password1)
-    text1 = aunt(line2, headers1, username, password, password1)
-    text2 = aunt(line3, headers1, username, password, password1)
+    text = aunt(line1, headers1, username, password, password1, password2)
+    text1 = aunt(line2, headers1, username, password, password1, password2)
+    text2 = aunt(line3, headers1, username, password, password1, password2)
     #print(text1)
 
     # выводим строки
@@ -182,7 +197,7 @@ for row in records:
         reg.append("No reg")
     try:
         pred = text.split("Зарегистрирована на: <B>" and "&quot;" and "&quot;")
-        print(pred[3])
+        #print(pred[3])
         clients.append(pred[3])
     except:
         clients.append("Нет информации")
@@ -252,10 +267,25 @@ for row in records:
     #print(error)
     URLS.append(line4)
     sysinfoURL.append(sysinfo)
-    
-# закрываем файл
+
+#Закрываем файл
 cursor.close()
 conn.close()
+
+logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
+logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
+logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
+logging.info("status: " + str(len(status)) + ", {}".format(', '.join(map(str, status))))
+logging.info("stat: " + str(len(stat)) + ", {}".format(', '.join(map(str, stat))))
+logging.info("clients: " + str(len(clients)) + ", {}".format(' '.join(map(str, clients))))
+logging.info("URLS: " + str(len(URLS)) + ", {}".format(', '.join(map(str, URLS))))
+logging.info("sysinfoURL: " + str(len(sysinfoURL)) + ", {}".format(', '.join(map(str, sysinfoURL))))
+logging.info("PolzURLS: " + str(len(PolzURLS)) + ", {}".format(', '.join(map(str, PolzURLS))))
+logging.info("polz: " + str(len(polz)) + ", {}".format(', '.join(map(str, polz))))
+logging.info("perezap: " + str(len(perezap)) + ", {}".format(', '.join(map(str, perezap))))
+logging.info("privyaz: " + str(len(privyaz)) + ", {}".format(', '.join(map(str, privyaz))))
+logging.info("error: " + str(len(error)) + ", {}".format(', '.join(map(str, error))))
+logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
 
 #Создаем датафрейм
 data = {'Reg': reg, 'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS, 'PolzURLS': PolzURLS, 'Sysinfo': "Скачать", 'sysinfoURL': sysinfoURL}

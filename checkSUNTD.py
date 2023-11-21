@@ -3,7 +3,14 @@ import os
 import signal
 import time
 import sqlite3
+import logging
+from datetime import datetime, timedelta
 
+
+#Задание формата логов
+current_date = datetime.now().strftime('%d.%m.%Y')
+format = "%(asctime)s: %(message)s"
+logging.basicConfig(filename = "logs/Check/logs" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 
 #cursor.execute('DELETE FROM NewBases')
 def sqlInput(S, K):
@@ -13,7 +20,7 @@ def sqlInput(S, K):
     sql = """replace INTO Bases (HostPort, Chet, SUNTD)
 VALUES ('""" + S + """', 0, """ + K + """);
         """
-    #print(sql)
+    logging.info("Запрос к БД SUNTD: " + sql)
     cursor = conn.cursor()
     cursor.execute(sql)
     conn.commit() 
@@ -24,10 +31,9 @@ def url_ok(url):
         r = requests.head(url)
     except:
         r = requests.head("https://esia.gosuslugi.ru/")
-        #print("no answer")
         return False
     if r.status_code == (307 or 303 or 200 or 302):
-        print("congr")
+        logging.info("URL: " + url + " congr")
         return True
     else: return False
     
@@ -65,7 +71,7 @@ S.append("http://REX:4000")
 for i in range (0, len(S)):
     D = url_ok(S[i])
     if D == True:
-        K = 1
+        K = 0
         sqlInput(S[i], K)
 
 SC=[]

@@ -1,0 +1,4 @@
+15:49:54: URL: http://suntd:4545 congr
+15:49:54: Запрос к БД SUNTD: replace INTO Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:4545', 0, 1);
+        
