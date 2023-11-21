@@ -4,9 +4,12 @@ import time
 import logging
 import sqlite3
 import requests
+from datetime import datetime, timedelta
 
+
+current_date = datetime.now().strftime('%d.%m.%Y')
 format = "%(asctime)s: %(message)s"
-logging.basicConfig(filename = "logs\logs.txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
+logging.basicConfig(filename = "logs/Base/logs_" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 logging.info("Служба запущена")
 
 def job_1():

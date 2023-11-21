@@ -1,0 +1,3 @@
+d:
+cd D:\USR\www\Для доработок
+pyinstaller -F --noconsole --onefile -i "D:\USR\www\suntd.ico" checkSUNTD.py

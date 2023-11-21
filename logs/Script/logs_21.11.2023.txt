@@ -1,0 +1,71 @@
+14:57:54: hosts: 6,dream suntd suntd suntd suntd suntd
+14:57:54: Ports: 6,3456 1210 1212 4545 5577 80
+14:57:54: dater: 6,15.02.2024 15.02.2024 15.02.2024 26.12.2023 No info 01.12.2023
+14:57:54: status: 6,В норме В норме В норме В норме No info Перезаказ
+14:57:54: stat: 6,http://dream:3456/sysinfo/si_save_request http://suntd:1210/sysinfo/si_save_request http://suntd:1212/sysinfo/si_save_request http://suntd:4545/sysinfo/si_save_request http://suntd:5577/sysinfo/si_save_request http://suntd:80/sysinfo/si_save_request
+14:57:54: clients: 6,Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+14:57:54: URLS: 6,http://dream:3456/admin http://suntd:1210/admin http://suntd:1212/admin http://suntd:4545/admin http://suntd:5577/admin http://suntd:80/admin
+14:57:54: sysinfoURL: 6,http://dream:3456/sysinfo/si_save_request http://suntd:1210/sysinfo/si_save_request http://suntd:1212/sysinfo/si_save_request http://suntd:4545/sysinfo/si_save_request http://suntd:5577/sysinfo/si_save_request http://suntd:80/sysinfo/si_save_request
+14:57:54: PolzURLS: 6,http://dream:3456/admin/cookies http://suntd:1210/admin/cookies http://suntd:1212/admin/cookies http://suntd:4545/admin/cookies http://suntd:5577/admin/cookies http://suntd:80/admin/cookies
+14:57:54: polz: 6,0/10 0/15 6/30 0/50 No info 0/10
+14:57:54: perezap: 6,2:00 2:00 02:00 2:00 No info 2:00
+14:57:54: privyaz: 6,SenseLock ключ -  [работает] SenseLock ключ -  [работает] SenseLock ключ -  [работает] локальная -  [работает] No info локальная -  [работает]
+14:57:54: error: 6,True True True True True True
+14:57:54: reg: 6,460_350961 460_350832 460_350278 619_340544 No reg 460_436715
+15:00:30: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:00:30: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:00:30: dater: 6, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:00:30: status: 6, В норме, В норме, В норме, В норме, No info, Перезаказ
+15:00:30: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:00:30: clients: 6, Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:00:30: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:00:30: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:00:30: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:00:30: polz: 6, 0/10, 0/15, 6/30, 0/50, No info, 0/10
+15:00:30: perezap: 6, 2:00, 2:00, 02:00, 2:00, No info, 2:00
+15:00:30: privyaz: 6, SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:00:30: error: 6, True, True, True, True, True, True
+15:00:30: reg: 6, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:15:23: hosts: 9, REX, REX, REX, dream, suntd, suntd, suntd, suntd, suntd
+15:15:23: Ports: 9, 1000, 4000, 80, 3456, 1210, 1212, 4545, 5577, 80
+15:15:23: dater: 9, 01.12.2023, 01.02.2024, 01.02.2024, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:15:23: status: 9, Перезаказ, В норме, В норме, В норме, В норме, В норме, В норме, No info, Перезаказ
+15:15:23: stat: 9, http://REX:1000/sysinfo/si_save_request, http://REX:4000/sysinfo/si_save_request, http://REX:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:15:23: clients: 9, Нова Браво Софт Браво Софт Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:15:23: URLS: 9, http://REX:1000/admin, http://REX:4000/admin, http://REX:80/admin, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:15:23: sysinfoURL: 9, http://REX:1000/sysinfo/si_save_request, http://REX:4000/sysinfo/si_save_request, http://REX:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:15:23: PolzURLS: 9, http://REX:1000/admin/cookies, http://REX:4000/admin/cookies, http://REX:80/admin/cookies, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:15:23: polz: 9, 9/20, 4/25, 31/50, 0/10, 0/15, 6/30, 0/50, No info, 0/10
+15:15:23: perezap: 9, 05:30, 2:00, 2:00, 2:00, 2:00, 02:00, 2:00, No info, 2:00
+15:15:23: privyaz: 9, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:15:23: error: 9, True, True, True, True, True, True, True, True, True
+15:15:23: reg: 9, 460_328248, 460_436759, 460_256775, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:16:37: hosts: 9, REX, REX, REX, dream, suntd, suntd, suntd, suntd, suntd
+15:16:37: Ports: 9, 1000, 4000, 80, 3456, 1210, 1212, 4545, 5577, 80
+15:16:37: dater: 9, 01.12.2023, 01.02.2024, 01.02.2024, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:16:37: status: 9, Перезаказ, В норме, В норме, В норме, В норме, В норме, В норме, No info, Перезаказ
+15:16:37: stat: 9, http://REX:1000/sysinfo/si_save_request, http://REX:4000/sysinfo/si_save_request, http://REX:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:16:37: clients: 9, Нова Браво Софт Браво Софт Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:16:37: URLS: 9, http://REX:1000/admin, http://REX:4000/admin, http://REX:80/admin, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:16:37: sysinfoURL: 9, http://REX:1000/sysinfo/si_save_request, http://REX:4000/sysinfo/si_save_request, http://REX:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:16:37: PolzURLS: 9, http://REX:1000/admin/cookies, http://REX:4000/admin/cookies, http://REX:80/admin/cookies, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:16:37: polz: 9, 9/20, 4/25, 31/50, 0/10, 0/15, 6/30, 0/50, No info, 0/10
+15:16:37: perezap: 9, 05:30, 2:00, 2:00, 2:00, 2:00, 02:00, 2:00, No info, 2:00
+15:16:37: privyaz: 9, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:16:37: error: 9, True, True, True, True, True, True, True, True, True
+15:16:37: reg: 9, 460_328248, 460_436759, 460_256775, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:41:16: Всего строк:  6
+15:42:13: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:42:13: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:42:13: dater: 6, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:42:13: status: 6, В норме, В норме, В норме, В норме, No info, Перезаказ
+15:42:13: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:42:13: clients: 6, Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:42:13: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:42:13: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:42:13: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:42:13: polz: 6, 0/10, 0/15, 6/30, 0/50, No info, 0/10
+15:42:13: perezap: 6, 2:00, 2:00, 02:00, 2:00, No info, 2:00
+15:42:13: privyaz: 6, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:42:13: error: 6, True, True, True, True, True, True
+15:42:13: reg: 6, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
