@@ -10,12 +10,13 @@ format = "%(asctime)s: %(message)s"
 logging.basicConfig(filename = "logs/dataCheck/logs_" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 
 
-def sqlInput(S, K, C, R, conn):
+def sqlInput(S, K, C, R, Cook, DaterC, conn):
     K = str(K)
     C = str(C)
     R = str(R)
-    sql = """replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
-VALUES ('""" + S + """',""" + K +  """,""" + C +  """,""" + R +  """);
+    
+    sql = """replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('""" + S + """',""" + K +  """,""" + C +  """,""" + R +  """, '""" + Cook + """', '""" + DaterC + """');
         """
     logging.info("Запрос к БД SUNTD: " + sql)
     #print(sql)
@@ -26,6 +27,7 @@ VALUES ('""" + S + """',""" + K +  """,""" + C +  """,""" + R +  """);
 
 def url_ok(url):
     try: r = requests.head(url)
+    
     except:
         r = requests.head("https://esia.gosuslugi.ru/")
         return False
@@ -45,10 +47,10 @@ for row in records:
     D = url_ok(row[0])
     if D == True:
         K = 1
-        sqlInput(row[0], K, row[1], row[2], conn)
+        sqlInput(row[0], K, row[1], row[2], row[3], row[4], conn)
     else:
         K = 0
-        sqlInput(row[0], K, row[1], row[2], conn)
+        sqlInput(row[0], K, row[1], row[2], row[3], row[4], conn)
 
 
 cursor.close()

@@ -15,13 +15,25 @@ logging.info("Служба запущена")
 def job_1():
     logging.info("1 thread running...")
     try:
+        os.startfile("Cook.exe")
+        sleep(20)
+    except:
+        logging.info("Cook.exe can't start running...")
+    
+    logging.info("2 thread running...")
+    try:
         os.startfile("DataCheck.exe")
+        sleep(15)
     except:
         logging.info("DataCheck.exe can't start running...")
+
+    logging.info("3 thread running...")
     try:
         os.startfile("pyScript.exe")
     except:
         logging.info("pyScript.exe can't start running...")
+
+    logging.info("4 thread running...")
     try:
         os.startfile("pyScript2.exe")
     except:
@@ -29,7 +41,7 @@ def job_1():
     
 
 def job_2():
-    logging.info("2 thread running...")
+    logging.info("5 thread running...")
     try:
         os.startfile("checkSUNTD.exe")
     except:

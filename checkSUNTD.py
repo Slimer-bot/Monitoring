@@ -17,7 +17,7 @@ def sqlInput(S, K):
     K = str(K)
     conn = sqlite3.connect("SUNTD.db", timeout=500)
     
-    sql = """replace INTO Bases (HostPort, Chet, SUNTD)
+    sql = """INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
 VALUES ('""" + S + """', 0, """ + K + """);
         """
     logging.info("Запрос к БД SUNTD: " + sql)

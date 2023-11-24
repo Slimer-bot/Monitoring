@@ -1,0 +1,240 @@
+15:56:02: 
+
+
+Всего строк:  75
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://82.208.93.53:80',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://82.208.93.53:4000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://185.200.240.5:80',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://185.200.240.5:2000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:0',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:2000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:2020',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:2020',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2020',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:2020',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2200',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:3000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:3000',1,0,0);
+        
+15:56:02: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3000',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:3000',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.102.106:3000',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:3030',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:3030',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3030',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3300',1,0,0);
+        
+15:56:03: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:3300',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:4000',0,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:4000',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:4000',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:4040',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:4040',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:4040',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:5000',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5000',1,0,0);
+        
+15:56:05: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:5000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:5000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5050',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:5050',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:5050',0,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5500',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:7000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:7000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:7000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:7070',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:7070',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:8000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:8000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:8000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:8000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:8080',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:8080',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:8081',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:8081',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:8082',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:9000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:9000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:9090',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9090',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:9090',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9999',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:1210',1,0,1);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:1212',1,0,1);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:5577',1,0,1);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:80',1,0,1);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://dream:3456',1,0,1);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:1000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:80',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:4000',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:80',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:80',1,0,0);
+        
+15:56:06: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:1000',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1000',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:1000',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:1010',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1010',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1100',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:2000',1,0,0);
+        
+15:56:07: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:4545',1,0,1);
+        
+16:24:13: 
+
+
+Всего строк:  0
+16:43:13: 
+
+
+Всего строк:  1
+16:43:13: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://dream:3456',1,0,1);
+        

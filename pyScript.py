@@ -114,6 +114,8 @@ privyaz=[]
 #Remarks
 error=[]
 
+#cookies = {'Kodeks': '1700657012', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+#print(cookies)
 #def LoadInfo():
     
 def make_clickable(val, v):
@@ -122,40 +124,47 @@ def make_clickable(val, v):
 def IsError(url):
     try: r = requests.head(url)
     except:
-        r = requests.head("https://esia.gosuslugi.ru/")
+        r = requests.head("http://google.com")
         logging.info("url whith trouble: " + url)
+        r.close()
         return False
     if r.status_code == (200):
+        r.close()
         return True
-    else: return False
+    else:
+        return False
 
-def aunt(line, headers1, username, password, password1, password2):
+def aunt(line, headers1, username, password, password1, password2, cookies):
     session = requests.Session()
     try:
-        r = session.get(line, headers = {'User-Agent': headers1})
+        r = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
 
         # Указываем referer. Иногда , если не указать , то приводит к ошибкам. 
         session.headers.update({'Referer':line})
         session.headers.update({'User-Agent':headers1})
     
         session.auth = (username, password)
-        response = session.get(line)
+        response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
+        #print(session.cookies.get_dict())
         if response.ok:
             text = response.text
+            response = session.close()
             return text
         else:
             try:
                 session.auth = (username, password1)
-                response = session.get(line)
+                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
                 if response.ok:
                     text = response.text
                     return text
             except:
                 session.auth = (username, password2)
-                response = session.get(line)
+                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
                 if response.ok:
                     text = response.text
                     return text
+        r.close()
+        
     except:
         text = ""
         return text
@@ -174,11 +183,13 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    text = aunt(line1, headers1, username, password, password1, password2)
-    text1 = aunt(line2, headers1, username, password, password1, password2)
-    text2 = aunt(line3, headers1, username, password, password1, password2)
+    cookies = eval(row[4].replace("4444444","{").replace("333333","}").replace("222222",":").replace("111111","'").replace("000000",",").replace("555555"," ").replace("77777","=="))
+    logging.info(cookies)
+    text = aunt(line1, headers1, username, password, password1, password2, cookies)
+    text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
+    text2 = aunt(line3, headers1, username, password, password1, password2, cookies)
     #print(text1)
-
+    
     # выводим строки
     
     parts = line.split("//" and ":")

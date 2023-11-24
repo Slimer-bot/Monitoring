@@ -1,0 +1,8 @@
+16:25:02: URL: http://dream:3456 congr
+16:25:02: Запрос к БД SUNTD: replace INTO Bases (HostPort, Chet, SUNTD)
+VALUES ('http://dream:3456', 0, 1);
+        
+16:26:53: URL: http://dream:3456 congr
+16:26:53: Запрос к БД SUNTD: replace INTO Bases (HostPort, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://dream:3456', 0, 1, 0, 0);
+        

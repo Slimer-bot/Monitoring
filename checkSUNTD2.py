@@ -3,17 +3,24 @@ import os
 import signal
 import time
 import sqlite3
+import logging
+from datetime import datetime, timedelta
 
+
+#Задание формата логов
+current_date = datetime.now().strftime('%d.%m.%Y')
+format = "%(asctime)s: %(message)s"
+logging.basicConfig(filename = "logs/Check/logs" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 
 #cursor.execute('DELETE FROM NewBases')
 def sqlInput(S, K):
     K = str(K)
     conn = sqlite3.connect("SUNTD.db", timeout=500)
     
-    sql = """replace INTO Bases (HostPort, Chet, SUNTD)
-VALUES ('""" + S + """', 0, """ + K + """);
+    sql = """INSERT OR IGNORE INTO Bases (HostPort, Chet, SUNTD, Cook, DataCook)
+VALUES ('""" + S + """', 0, """ + K + """, 0, 0);
         """
-    #print(sql)
+    logging.info("Запрос к БД SUNTD: " + sql)
     cursor = conn.cursor()
     cursor.execute(sql)
     conn.commit() 
@@ -22,28 +29,30 @@ VALUES ('""" + S + """', 0, """ + K + """);
 def url_ok(url):
     try:
         r = requests.head(url)
+        
     except:
-        r = requests.head("https://esia.gosuslugi.ru/")
-        #print("no answer")
+        r = requests.head("http://google.com")
         return False
     if r.status_code == (307 or 303 or 200 or 302):
-        print("congr")
+        logging.info("URL: " + url + " congr")
         return True
     else: return False
     
 SUNTDstr = []
-SUNTDstr.append("http://suntd:4040")
-SUNTDstr.append("http://suntd:4545")
-SUNTDstr.append("http://suntd:5555")
-SUNTDstr.append("http://suntd:5566")
-SUNTDstr.append("http://suntd:5577")
-SUNTDstr.append("http://suntd:7000")
-SUNTDstr.append("http://suntd:7788")
-SUNTDstr.append("http://suntd:8000")
-SUNTDstr.append("http://suntd:8088")
-SUNTDstr.append("http://suntd:8874")
-SUNTDstr.append("http://suntd:9000")
-SUNTDstr.append("http://suntd:41197")
+#SUNTDstr.append("http://suntd:4040")
+#SUNTDstr.append("http://suntd:4545")
+#SUNTDstr.append("http://suntd:5555")
+#SUNTDstr.append("http://suntd:5566")
+#SUNTDstr.append("http://suntd:5577")
+#SUNTDstr.append("http://suntd:7000")
+#SUNTDstr.append("http://suntd:7788")
+#SUNTDstr.append("http://suntd:8000")
+#SUNTDstr.append("http://suntd:8088")
+#SUNTDstr.append("http://suntd:8874")
+#SUNTDstr.append("http://suntd:9000")
+#SUNTDstr.append("http://suntd:41197")
+#SUNTDstr.append("http://suntd:80")
+SUNTDstr.append("http://dream:3456")
 
 for i in range (0, len(SUNTDstr)):
     D = url_ok(SUNTDstr[i])
@@ -52,18 +61,6 @@ for i in range (0, len(SUNTDstr)):
         K = 1
         sqlInput(SUNTDstr[i], K)
 
-S = "http://suntd:80"
-K = 1
-D = url_ok(S)
-if D == True:
-    sqlInput(S, K)
-    
-
-S = "http://dream:3456"
-K = 1
-D = url_ok(S)
-if D == True:
-    sqlInput(S, K)
 
 S=[]
 S.append("http://REX:1000")
@@ -72,7 +69,7 @@ S.append("http://REX:4000")
 
 
 
-for i in range (0, len(S)):
+for i in range (0, 0):
     D = url_ok(S[i])
     if D == True:
         K = 0
@@ -85,17 +82,18 @@ SC.append("http://95.79.112.203:80")
 SC.append("http://95.79.112.204:80")
 SC.append("http://95.79.59.227:80")
 
-for i in range (0, len(SC)):
+for i in range (0, 0):
     D = url_ok(SC[i])
     if D == True:
         K = 0
         sqlInput(SC[i], K)
           
 step = 10
-i = 10000
+i = 1000
 t = 0
 
-while i < 10000:
+#while i < 10000:
+while i < 1000:
     i_str = str(i)
     i_str = i_str[0]
     first = "http://95.79.112.201:" + str(i)
@@ -174,11 +172,8 @@ while i < 10000:
     i = step
     
 
-
-
-
-
-for i in range(1209, 1213):
+        
+for i in range(1211, 1211):
     L = 1
     S = "http://suntd:" + str(i)
     K = "http://dream:" + str(i)
@@ -186,6 +181,4 @@ for i in range(1209, 1213):
         sqlInput(S, L)
     if url_ok(K) == True:
         sqlInput(K, L)
-
-
 

@@ -1,0 +1,114 @@
+15:25:17: Всего строк:  1
+15:25:17: hosts: 1, dream
+15:25:17: Ports: 1, 3456
+15:25:17: dater: 1, No info
+15:25:17: status: 1, No info
+15:25:17: stat: 1, http://dream:3456/sysinfo/si_save_request
+15:25:17: clients: 1, Нет информации
+15:25:17: URLS: 1, http://dream:3456/admin
+15:25:17: sysinfoURL: 1, http://dream:3456/sysinfo/si_save_request
+15:25:17: PolzURLS: 1, http://dream:3456/admin/cookies
+15:25:17: polz: 1, No info
+15:25:17: perezap: 1, No info
+15:25:17: privyaz: 1, No info
+15:25:17: error: 1, True
+15:25:17: reg: 1, No reg
+15:28:31: Всего строк:  1
+15:28:31: hosts: 1, dream
+15:28:31: Ports: 1, 3456
+15:28:31: dater: 1, No info
+15:28:31: status: 1, No info
+15:28:31: stat: 1, http://dream:3456/sysinfo/si_save_request
+15:28:31: clients: 1, Нет информации
+15:28:31: URLS: 1, http://dream:3456/admin
+15:28:31: sysinfoURL: 1, http://dream:3456/sysinfo/si_save_request
+15:28:31: PolzURLS: 1, http://dream:3456/admin/cookies
+15:28:31: polz: 1, No info
+15:28:31: perezap: 1, No info
+15:28:31: privyaz: 1, No info
+15:28:31: error: 1, True
+15:28:31: reg: 1, No reg
+15:33:10: Всего строк:  1
+15:34:45: hosts: 1, dream
+15:34:45: Ports: 1, 3456
+15:34:45: dater: 1, 15.02.2024
+15:34:45: status: 1, В норме
+15:34:45: stat: 1, http://dream:3456/sysinfo/si_save_request
+15:34:45: clients: 1, Браво Софт
+15:34:45: URLS: 1, http://dream:3456/admin
+15:34:45: sysinfoURL: 1, http://dream:3456/sysinfo/si_save_request
+15:34:45: PolzURLS: 1, http://dream:3456/admin/cookies
+15:34:45: polz: 1, 0/10
+15:34:45: perezap: 1, 14:55
+15:34:45: privyaz: 1, SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)]
+15:34:45: error: 1, True
+15:34:45: reg: 1, 460_350961
+15:35:59: Всего строк:  1
+15:37:08: hosts: 1, dream
+15:37:08: Ports: 1, 3456
+15:37:08: dater: 1, 15.02.2024
+15:37:08: status: 1, В норме
+15:37:08: stat: 1, http://dream:3456/sysinfo/si_save_request
+15:37:08: clients: 1, Браво Софт
+15:37:08: URLS: 1, http://dream:3456/admin
+15:37:08: sysinfoURL: 1, http://dream:3456/sysinfo/si_save_request
+15:37:08: PolzURLS: 1, http://dream:3456/admin/cookies
+15:37:08: polz: 1, 0/10
+15:37:08: perezap: 1, 14:55
+15:37:08: privyaz: 1, SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)]
+15:37:08: error: 1, True
+15:37:08: reg: 1, 460_350961
+15:38:30: Всего строк:  3
+15:40:35: hosts: 3, dream, suntd, suntd
+15:40:35: Ports: 3, 3456, 4545, 5577
+15:40:35: dater: 3, 15.02.2024, 26.12.2023, No info
+15:40:35: status: 3, В норме, В норме, No info
+15:40:35: stat: 3, http://dream:3456/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request
+15:40:35: clients: 3, Браво Софт ЗАСЛОН Нет информации
+15:40:35: URLS: 3, http://dream:3456/admin, http://suntd:4545/admin, http://suntd:5577/admin
+15:40:35: sysinfoURL: 3, http://dream:3456/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request
+15:40:35: PolzURLS: 3, http://dream:3456/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies
+15:40:35: polz: 3, 0/10, 1/50, No info
+15:40:35: perezap: 3, 14:55, 2:00, No info
+15:40:35: privyaz: 3, SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)], локальная -  [работает], No info
+15:40:35: error: 3, True, True, True
+15:40:35: reg: 3, 460_350961, 619_340544, No reg
+15:43:24: Всего строк:  3
+15:43:24: {'Kodeks': '1700740512', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:44:06: {'Kodeks': '1700694008', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:44:07: None
+15:44:07: hosts: 3, dream, suntd, suntd
+15:44:07: Ports: 3, 3456, 4545, 5577
+15:44:07: dater: 3, 15.02.2024, 26.12.2023, No info
+15:44:07: status: 3, В норме, В норме, No info
+15:44:07: stat: 3, http://dream:3456/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request
+15:44:07: clients: 3, Браво Софт ЗАСЛОН Нет информации
+15:44:07: URLS: 3, http://dream:3456/admin, http://suntd:4545/admin, http://suntd:5577/admin
+15:44:07: sysinfoURL: 3, http://dream:3456/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request
+15:44:07: PolzURLS: 3, http://dream:3456/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies
+15:44:07: polz: 3, 0/10, 1/50, No info
+15:44:07: perezap: 3, 14:55, 2:00, No info
+15:44:07: privyaz: 3, SenseLock ключ -  [Менеджер лицензий не авторизовал ключ, key limit exceeded (менеджер лицензий настроен на 26.93.109.135:8888)], локальная -  [работает], No info
+15:44:07: error: 3, True, True, True
+15:44:07: reg: 3, 460_350961, 619_340544, No reg
+16:08:25: Всего строк:  6
+16:08:25: {'Kodeks': '1700740512', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:08:49: {'Kodeks': '1700694006', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:08:59: {'Kodeks': '1700694017', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:09:10: {'Kodeks': '1700694008', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:09:19: None
+16:09:19: {'Kodeks': '1700694048', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:09:29: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+16:09:29: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+16:09:29: dater: 6, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+16:09:29: status: 6, В норме, В норме, В норме, В норме, No info, Перезаказ
+16:09:29: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:09:29: clients: 6, Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+16:09:29: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+16:09:29: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:09:29: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+16:09:29: polz: 6, 0/10, 0/15, 6/30, 1/50, No info, 1/10
+16:09:29: perezap: 6, 14:55, 2:00, 02:00, 2:00, No info, 2:00
+16:09:29: privyaz: 6, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+16:09:29: error: 6, True, True, True, True, True, True
+16:09:29: reg: 6, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
