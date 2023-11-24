@@ -15,7 +15,7 @@ strdate = datetime.strptime(current_date, '%d.%m.%Y')
 
 def Adder(line, current_date, text):
     text = str(text)
-    text = text.replace("{","4444444").replace("}","333333").replace(":","222222").replace("'","111111").replace(",","000000").replace(" ","555555").replace("==","77777")
+    text = text.replace("{","4443444").replace("}","333433").replace(":","221222").replace("'","112111").replace(",","000100").replace(" ","555455").replace("==","777677")
     #print(text)
     current_date = current_date.replace(".",",")
     #print(current_date)

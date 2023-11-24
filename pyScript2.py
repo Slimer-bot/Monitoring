@@ -119,33 +119,37 @@ def IsError(url):
         return True
     else: return False
 
-def aunt(line, headers1, username, password, password1, password2):
+def aunt(line, headers1, username, password, password1, password2, cookies):
     session = requests.Session()
     try:
-        r = session.get(line, headers = {'User-Agent': headers1})
+        r = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
 
         # Указываем referer. Иногда , если не указать , то приводит к ошибкам. 
         session.headers.update({'Referer':line})
         session.headers.update({'User-Agent':headers1})
     
         session.auth = (username, password)
-        response = session.get(line)
+        response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
+        #print(session.cookies.get_dict())
         if response.ok:
             text = response.text
+            response = session.close()
             return text
         else:
             try:
                 session.auth = (username, password1)
-                response = session.get(line)
+                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
                 if response.ok:
                     text = response.text
                     return text
             except:
                 session.auth = (username, password2)
-                response = session.get(line)
+                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
                 if response.ok:
                     text = response.text
                     return text
+        r.close()
+        
     except:
         text = ""
         return text
@@ -165,9 +169,11 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    text = aunt(line1, headers1, username, password, password1, password2)
-    text1 = aunt(line2, headers1, username, password, password1, password2)
-    text2 = aunt(line3, headers1, username, password, password1, password2)
+    cookies = eval(row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","=="))
+    logging.info(cookies)
+    text = aunt(line1, headers1, username, password, password1, password2, cookies)
+    text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
+    text2 = aunt(line3, headers1, username, password, password1, password2, cookies)
 
     # выводим строки
     parts = line.split("//" and ":")

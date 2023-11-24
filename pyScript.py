@@ -183,7 +183,9 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    cookies = eval(row[4].replace("4444444","{").replace("333333","}").replace("222222",":").replace("111111","'").replace("000000",",").replace("555555"," ").replace("77777","=="))
+    #print(row[4])
+    cookies = eval(row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","=="))
+    #print(cookies)
     logging.info(cookies)
     text = aunt(line1, headers1, username, password, password1, password2, cookies)
     text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
