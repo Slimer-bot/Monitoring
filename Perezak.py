@@ -6,19 +6,16 @@ from IPython.display import HTML
 from datetime import datetime, timedelta
 import sqlite3
 import logging
-
+ 
 current_date = datetime.now().strftime('%d.%m.%Y')
-
-
-#Формат логов
 format = "%(asctime)s: %(message)s"
-logging.basicConfig(filename = "logs/Script/logs_" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
+logging.basicConfig(filename = "logs/perezak/logs_" + current_date + ".txt", format=format, level=logging.INFO, datefmt="%H:%M:%S")
 current_date = datetime.strptime(current_date, '%d.%m.%Y')
 
 html_string_start = '''
 <html>
     <title>Мониторинг установок Техэксперт | СУНТД</title>
- <link rel="icon" href="suntd.ico" type="image/x-icon">
+ <link rel="icon" href="favicon.ico" type="image/x-icon">
  <link rel="shortcut icon" href="suntd.ico" type="image/x-icon">
  <style>
     table {
@@ -38,9 +35,11 @@ html_string_start = '''
         border: 1px solid #000;
         border-radius: 0;
     }
+    
     .colortext {
      color: red; /* Красный цвет выделения */
     }
+    
     .colortext1 {
      color: blue; /* Синий цвет выделения */
     }
@@ -81,62 +80,19 @@ html_string_end = '''
 username = "kodeks"
 #username1
 password1 = "skedoks"
-password2 = "skedok"
 password = "kodeks"
+password2 = "skedok"
 headers1 = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
-
-#Рег
-reg=[]
-#Хост
 hosts=[]
-#Порт
 Ports=[]
-#Срок действия лицензии
-dater=[]
+#dater=[]
 status=[]
-stat=[]
-#Клиент (наименование)
 clients=[]
-#Ссылки
 URLS=[]
-#Ссылки на Sysinfo
-sysinfoURL=[]
-#Ссылка на пользовательские сессии
-PolzURLS = []
-#Пользователи
-polz=[]
-#Рез.копия
-rez=[]
-#Перезапуск
-perezap=[]
-#Привязка
-privyaz=[]
-#Remarks
-error=[]
-#Основной каталог
-catalog =[]
-#Ошибка
-blat=[]
+reg=[]
 
-#cookies = {'Kodeks': '1700657012', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
-#print(cookies)
-#def LoadInfo():
-    
 def make_clickable(val, v):
     return f'<a target="_blank" href="{val}">{v}</a>'
-
-def IsError(url):
-    try: r = requests.head(url)
-    except:
-        r = requests.head("http://google.com")
-        logging.info("url whith trouble: " + url)
-        r.close()
-        return False
-    if r.status_code == (200):
-        r.close()
-        return True
-    else:
-        return False
 
 def aunt(line, headers1, username, password, password1, password2, cookies):
     session = requests.Session()
@@ -175,7 +131,7 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
 
 conn = sqlite3.connect("SUNTD.db", timeout=1500)
 cursor = conn.cursor()
-sqlite_select_query = """SELECT * from NewBases WHERE SUNTD = 1 ORDER BY HostPort """
+sqlite_select_query = """SELECT * from NewBases ORDER BY HostPort"""
 cursor.execute(sqlite_select_query)
 records = cursor.fetchall()
 logging.info("Всего строк:  " + str(len(records)))
@@ -187,26 +143,18 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    line6 = line.rstrip() + "/sysinfo/metrics"
-    #print(row[4])
     cookies = eval(row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","=="))
-    #print(cookies)
     logging.info(cookies)
     text = aunt(line1, headers1, username, password, password1, password2, cookies)
     text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
     text2 = aunt(line3, headers1, username, password, password1, password2, cookies)
-    text3 = aunt(line6, headers1, username, password, password1, password2, cookies)
-    #print(text1)
-    
-    # выводим строки
-    
+      
+    URLS.append(line4)
     parts = line.split("//" and ":")
-    sysinfo = line.rstrip() + "/sysinfo/si_save_request"    
     parts[2] = parts[2].rstrip()
     Ports.append(parts[2])
-    hosts.append(parts[1][2:])
-    stat.append(sysinfo)
-    #print(text)
+    hosts.append(parts[1][2:]) 
+    
     try:
         registr = text.split("Регистрационный номер: <B>" and "</B><BR>")
         registr = registr[1]
@@ -214,156 +162,78 @@ for row in records:
         reg.append(registr[34:])
     except:
         reg.append("No reg")
+
     try:
-        pred = text.split("Зарегистрирована на: <B>" and "&quot;" and "&quot;")
-        #print(pred[3])
-        clients.append(pred[3])
+        pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
+        #print(pred[2])
+        clients.append(pred[2].replace('\n', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", ""))
     except:
         clients.append("Нет информации")
 
     try:
-        privazka = text1.split("</H3></CENTER><BR> Привязка:")
-        sep = "<br>"
-        privazka = privazka[1].split(sep, 1)[0]
-        privazka = privazka.strip(' ')
-        #print(privazka)
-        privyaz.append(privazka)
-    except:
-        privyaz.append("No info")
-    
-    try:
         dateRab = text1.split("100001</td>")
         #print(dateRab[1][25:35])
-        dater.append(dateRab[1][25:35])
+        #dater.append(dateRab[1][25:35])
         dateRab = datetime.strptime(dateRab[1][25:35], '%d.%m.%Y')
         if (current_date >= dateRab):
             status.append("Просрочена")
-            #print(dateRab)
         else:
             dateRab = dateRab - timedelta(days=28)
             if (current_date >= dateRab):
                 status.append("Перезаказ")
         
             else:
-                status.append("В норме")
+                hosts.pop()
+                Ports.pop()
+                URLS.pop()
+                reg.pop()
+                #dater.pop()
+                clients.pop()
+        
     except:
-        dater.append("No info")
+        #dater.append("No info")
         status.append("No info")
-
-    try:
-        cat = text3.split("# Path ", 1)[1]
-        cat = cat
-        print(cat)
-        catalog.append(cat)
-        err = text3.split('kserver_main_page' and '"} ' and 'kserver_product_control')
-        #print(err[2])
-        if err[2] == "0":
-            err = "Не найдена"
-        if err == "1 update DB":
-            err = "В анализируемом каталоге обновление или подключение БД (каталог недоступен)"
-        blat.append(err)
-    except:
-        catalog.append("No info")
-        blat.append("No info")
-
-    try:
-        rezerv = text2.split("""<INPUT TYPE="TEXT" NAME="reservtime" VALUE=""")
-        rezerv = rezerv[1]
-        rezerv = rezerv[1:6]
-        #print(rezerv.replace('"', ''))
-        rez.append(rezerv.replace('"', ''))
-    except:
-        rez.append("No info")
-
-    try:
-        perezapusk = text2.split("""<INPUT TYPE="TEXT" NAME="restarttime" VALUE=""")
-        perezapusk = perezapusk[1]
-        perezapusk = perezapusk[1:6]
-        #print(perezapusk.replace('"', ''))
-        perezap.append(perezapusk.replace('"', ''))
-    except:
-        perezap.append("No info")
-
-    try:
-        polzovat = text.split("Пользователи работающие с продуктами")
-        polzovat1 = text.split("Пользователи работающие с продуктами (стандартные, расширенные лицензии):")
-        polzovat = polzovat[1]
-        polzovat1 = polzovat1[1]
-        polzovat = polzovat[22:-6] + "/" + polzovat1[30:35]
-        polzovat = polzovat.replace(':', '').replace(' ', '').replace(')', '').replace('<', '').replace('b', '').replace('a', '').replace('а', '')
-        #print(polzovat)
-        polz.append(polzovat)
-        PolzURLS.append(line5)
-    except:
-        polz.append("No info")
-        PolzURLS.append(line5)
-
-    error.append(IsError(line.rstrip() + "/.apiDocInfo?nd=1200159302&authMode=system&source=kassist"))
-    #print(error)
-    URLS.append(line4)
-    sysinfoURL.append(sysinfo)
-
-#Закрываем файл
-cursor.close()
-conn.close()
 
 logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
 logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
-logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
+#logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
 logging.info("status: " + str(len(status)) + ", {}".format(', '.join(map(str, status))))
-logging.info("stat: " + str(len(stat)) + ", {}".format(', '.join(map(str, stat))))
 logging.info("clients: " + str(len(clients)) + ", {}".format(' '.join(map(str, clients))))
 logging.info("URLS: " + str(len(URLS)) + ", {}".format(', '.join(map(str, URLS))))
-logging.info("sysinfoURL: " + str(len(sysinfoURL)) + ", {}".format(', '.join(map(str, sysinfoURL))))
-logging.info("PolzURLS: " + str(len(PolzURLS)) + ", {}".format(', '.join(map(str, PolzURLS))))
-logging.info("polz: " + str(len(polz)) + ", {}".format(', '.join(map(str, polz))))
-logging.info("perezap: " + str(len(perezap)) + ", {}".format(', '.join(map(str, perezap))))
-logging.info("privyaz: " + str(len(privyaz)) + ", {}".format(', '.join(map(str, privyaz))))
-logging.info("error: " + str(len(error)) + ", {}".format(', '.join(map(str, error))))
 logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
 
-#Создаем датафрейм
-data = {'Reg': reg, 'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS, 'PolzURLS': PolzURLS, 'Sysinfo': "Скачать", 'sysinfoURL': sysinfoURL}
+
+data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS}
 df = pd.DataFrame.from_dict(data)
 n = len(URLS)
 
 df.style.format(make_clickable)
-df.insert(6,'active/Pos', polz)
 df['Clients'] = df.apply(lambda x: "<a href='{}' target='_blank'>{}</a>".format(x['URLS'], x['clients']), axis=1)
-df['Active/Pos'] = df.apply(lambda x: "<a href='{}' target='_blank'>{}</a>".format(x['PolzURLS'], x['active/Pos']), axis=1)
-df['SysInfo'] = df.apply(lambda x: "<a href='{}' target='_blank'>{}</a>".format(x['sysinfoURL'], x['Sysinfo']), axis=1)
 
-df = df.drop(['clients', 'URLS', 'Sysinfo', 'sysinfoURL', 'active/Pos', 'PolzURLS'], axis=1)
+df = df.drop(['clients', 'URLS'], axis=1)
 df.style
-df.insert(4,'Corp-Trial', dater)
-df.insert(5,'Статус рега', status)
-df.insert(7,'Перезапуск', perezap)
-df.insert(8,'Рез. копия', rez)
-df.insert(9,'Привязка', privyaz)
-df.insert(10,'Ошибка', error)
+#df.insert(4,'Corp-Trial', dater)
+df.insert(4,'Статус рега', status)
+
 
 #Переводим датафрейм в html
-html = df.to_html(index=False,escape=False) 
+html = df.to_html(index=False,escape=False)  
   
-# write html to file с приминением стилей
-text_file = open("index.html", "w") 
-text_file.write(html_string_start + html + html_string_end)
+# write html to file 
+text_file = open("index3.html", "w") 
+text_file.write(html_string_start + html + html_string_end) 
 text_file.close()
 #Добавляем цвета к элементам
-text_file = open("index.html", "r") 
+text_file = open("index3.html", "r") 
 filedata = text_file.read()
 filedata = filedata.replace('В норме', '<span class="colortext1">В норме')
 filedata = filedata.replace('Просрочена', '<span class="colortext">Просрочена')
 filedata = filedata.replace('Перезаказ', '<span class="colortext">Перезаказ')
-filedata = filedata.replace('No info', '<span class="colortext">No info')
+filedata = filedata.replace('No info', '<span class="colortext1">No info')
 filedata = filedata.replace('<td>No reg', '<td span class="backgroung1">No info')
 filedata = filedata.replace('Нет информации', 'Браво Софт')
 filedata = filedata.replace('True', '<span class="colortext1">Отсутствует')
 filedata = filedata.replace('False', '<span class="colortext">ДА!')
 text_file.close()
-with open('index.html', 'w') as file:
-  file.write(filedata)
-
-
-
-#df.to_html('index.html', justify='center', border=3, escape=False, classes='table table-striped')
+with open('index3.html', 'w') as file:
+  file.write(filedata)    

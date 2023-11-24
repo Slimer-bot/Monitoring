@@ -38,6 +38,11 @@ def job_1():
         os.startfile("pyScript2.exe")
     except:
         logging.info("pyScript2.exe can't start running...")
+    logging.info("6 thread running...")
+    try:
+        os.startfile("perezak.exe")
+    except:
+        logging.info("perezak.exe can't start running...")
     
 
 def job_2():

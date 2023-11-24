@@ -69,7 +69,7 @@ html_string_start = '''
   </style>
   <body>
       <table>
-      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a></td></tr>'
+      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Перезаказ</a></td></tr>'
       </table>
 '''
 html_string_end = '''
