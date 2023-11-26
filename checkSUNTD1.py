@@ -1,43 +1,37 @@
 import requests
-import os
-import signal
-import time
 import sqlite3
 
-
-#cursor.execute('DELETE FROM NewBases')
+# Функция для вставки данных в базу данных
 def sqlInput(S, K):
     K = str(K)
     conn = sqlite3.connect("SUNTD.db", timeout=500)
     
     sql = """replace INTO Bases (HostPort, Chet, SUNTD)
-VALUES ('""" + S + """', 0, """ + K + """);
+VALUES (?, 0, ?);
         """
-    #print(sql)
     cursor = conn.cursor()
-    cursor.execute(sql)
+    cursor.execute(sql, (S, K))
     conn.commit() 
     conn.close()
 
+# Функция для проверки доступности URL
 def url_ok(url):
     try:
         r = requests.head(url)
     except:
         r = requests.head("https://esia.gosuslugi.ru/")
-        #print("no answer")
         return False
-    if r.status_code == (307 or 303 or 200 or 302):
+    if r.status_code in [307, 303, 200, 302]:
         print("congr")
         return True
     else: return False
-    
 
+# Проверка доступности URL и вставка данных в базу данных
 S = "http://suntd:80"
 K = 1
 D = url_ok(S)
 if D == True:
     sqlInput(S, K)
-    
 
 S = "http://dream:3456"
 K = 1
@@ -49,8 +43,6 @@ S=[]
 S.append("http://REX:1000")
 S.append("http://REX:80")
 S.append("http://REX:4000")
-
-
 
 for i in range (0, len(S)):
     D = url_ok(S[i])
@@ -70,9 +62,9 @@ for i in range (0, len(SC)):
     if D == True:
         K = 0
         sqlInput(SC[i], K)
-          
+
 step = 10
-    
+
 i = 0
 t = 0
 while i < 10000:
@@ -86,9 +78,7 @@ while i < 10000:
     sixth = "http://91.219.56.146:" + str(i)
     seventh = "http://95.79.102.106:" + str(i)
     K = 0
-    
-        
-    #print(i)
+
     if (t == 0):
         step = int(i_str) * 1010
         if (step == 8080):
@@ -164,4 +154,3 @@ for i in range(1210, 1220):
         sqlInput(S, L)
     if url_ok(K) == True:
         sqlInput(K, L)
-
