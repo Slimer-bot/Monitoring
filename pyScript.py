@@ -189,8 +189,11 @@ for row in records:
     line5 = line.rstrip() + "/admin/cookies"
     line6 = line.rstrip() + "/sysinfo/metrics"
     #print(row[4])
-    cookies = eval(row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","=="))
-    #print(cookies)
+    try:
+        strokaforcook = row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","==")
+        cookies = eval(strokaforcook)
+    except:
+        cookies = row[4]
     logging.info(cookies)
     text = aunt(line1, headers1, username, password, password1, password2, cookies)
     text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
@@ -215,9 +218,10 @@ for row in records:
     except:
         reg.append("No reg")
     try:
-        pred = text.split("Зарегистрирована на: <B>" and "&quot;" and "&quot;")
-        #print(pred[3])
-        clients.append(pred[3])
+        pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
+        #print(pred[2])
+        clientwhithoutdate = pred[2].replace('\n', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
+        clients.append(clientwhithoutdate[26:])
     except:
         clients.append("Нет информации")
 

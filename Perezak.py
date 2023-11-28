@@ -85,12 +85,12 @@ password2 = "skedok"
 headers1 = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
 hosts=[]
 Ports=[]
-#dater=[]
+dater=[]
 status=[]
 clients=[]
 URLS=[]
 reg=[]
-
+index=0
 def make_clickable(val, v):
     return f'<a target="_blank" href="{val}">{v}</a>'
 
@@ -105,6 +105,8 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
     
         session.auth = (username, password)
         response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
+        
+        
         #print(session.cookies.get_dict())
         if response.ok:
             text = response.text
@@ -143,8 +145,14 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
-    cookies = eval(row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","=="))
+    try:
+        strokaforcook = row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","==")
+        cookies = eval(strokaforcook)
+    except:
+        cookies = row[4]
     logging.info(cookies)
+    index+=1
+    logging.info(index)
     text = aunt(line1, headers1, username, password, password1, password2, cookies)
     text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
     text2 = aunt(line3, headers1, username, password, password1, password2, cookies)
@@ -166,10 +174,12 @@ for row in records:
     try:
         pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
         #print(pred[2])
-        clients.append(pred[2].replace('\n', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", ""))
+        clientwhithoutdate = pred[2].replace('\n', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
+        clients.append(clientwhithoutdate[26:])
+        dater.append(clientwhithoutdate[4:14])
     except:
         clients.append("Нет информации")
-
+        dater.append("No info")
     try:
         dateRab = text1.split("100001</td>")
         #print(dateRab[1][25:35])
@@ -187,7 +197,7 @@ for row in records:
                 Ports.pop()
                 URLS.pop()
                 reg.pop()
-                #dater.pop()
+                dater.pop()
                 clients.pop()
         
     except:
@@ -212,8 +222,8 @@ df['Clients'] = df.apply(lambda x: "<a href='{}' target='_blank'>{}</a>".format(
 
 df = df.drop(['clients', 'URLS'], axis=1)
 df.style
-#df.insert(4,'Corp-Trial', dater)
-df.insert(4,'Статус рега', status)
+df.insert(4,'Corp-Trial', dater)
+df.insert(5,'Статус рега', status)
 
 
 #Переводим датафрейм в html
