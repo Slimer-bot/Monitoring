@@ -174,16 +174,24 @@ for row in records:
     try:
         pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
         #print(pred[2])
-        clientwhithoutdate = pred[2].replace('\n', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
-        clients.append(clientwhithoutdate[26:])
-        dater.append(clientwhithoutdate[4:14])
+        result = ""
+        clientwhithoutdate = pred[2].replace('\n', '').replace('.', '').replace('B', '').replace('/', '').replace('br', '').replace('>', '').replace('<', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
+        for char in clientwhithoutdate[0:10]:
+        # Проверяем, является ли символ цифрой
+            if not char.isdigit():
+            # Если символ не является цифрой, добавляем его в конечную строку
+                result += char
+        result += clientwhithoutdate[10:]
+        #print(result)
+        clients.append(result)
+        
     except:
         clients.append("Нет информации")
-        dater.append("No info")
+        
     try:
         dateRab = text1.split("100001</td>")
         #print(dateRab[1][25:35])
-        #dater.append(dateRab[1][25:35])
+        dater.append(dateRab[1][25:35])
         dateRab = datetime.strptime(dateRab[1][25:35], '%d.%m.%Y')
         if (current_date >= dateRab):
             status.append("Просрочена")
@@ -201,12 +209,12 @@ for row in records:
                 clients.pop()
         
     except:
-        #dater.append("No info")
+        dater.append("No info")
         status.append("No info")
 
 logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
 logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
-#logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
+logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
 logging.info("status: " + str(len(status)) + ", {}".format(', '.join(map(str, status))))
 logging.info("clients: " + str(len(clients)) + ", {}".format(' '.join(map(str, clients))))
 logging.info("URLS: " + str(len(URLS)) + ", {}".format(', '.join(map(str, URLS))))

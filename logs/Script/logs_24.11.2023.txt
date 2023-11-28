@@ -1,0 +1,359 @@
+08:52:39: Всего строк:  6
+08:52:39: None
+08:53:26: {'Kodeks': '1700780405', 'KodeksData': 'XzE2Nzc3MzQzXzE3OTMyMDU='}
+09:17:14: Всего строк:  6
+09:17:14: None
+09:20:51: Всего строк:  6
+09:20:51: None
+09:21:46: Всего строк:  6
+09:21:46: None
+09:22:21: Всего строк:  6
+09:22:21: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:22:21: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:22:31: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:22:42: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:22:51: None
+09:22:52: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:22:52: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+09:22:52: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+09:22:52: dater: 6, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+09:22:52: status: 6, В норме, В норме, В норме, В норме, No info, Перезаказ
+09:22:52: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:22:52: clients: 6, Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+09:22:52: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+09:22:52: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:22:52: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+09:22:52: polz: 6, 0/10, 0/15, 6/30, 0/50, No info, 1/10
+09:22:52: perezap: 6, 14:55, 2:00, 02:00, 2:00, No info, 2:00
+09:22:52: privyaz: 6, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+09:22:52: error: 6, True, True, True, True, True, True
+09:22:52: reg: 6, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+09:23:53: Всего строк:  6
+09:23:53: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:24:30: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:24:30: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:24:31: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:24:31: None
+09:24:31: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:24:32: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+09:24:32: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+09:24:32: dater: 6, 15.02.2024, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+09:24:32: status: 6, В норме, В норме, В норме, В норме, No info, Перезаказ
+09:24:32: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:24:32: clients: 6, Браво Софт Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+09:24:32: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+09:24:32: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:24:32: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+09:24:32: polz: 6, 0/10, 0/15, 6/30, 0/50, No info, 1/10
+09:24:32: perezap: 6, 14:55, 2:00, 02:00, 2:00, No info, 2:00
+09:24:32: privyaz: 6, SenseLock ключ -  [работает], SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+09:24:32: error: 6, True, True, True, True, True, True
+09:24:32: reg: 6, 460_350961, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:05:28: Всего строк:  6
+15:05:28: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:05:39: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:05:39: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:05:48: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:06:00: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:06:10: None
+15:06:14: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:06:15: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:06:15: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:06:15: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:06:15: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:06:15: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:06:15: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:06:15: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:06:15: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:06:15: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:06:15: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:06:15: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:06:15: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:06:15: error: 6, False, True, True, True, True, True
+15:06:15: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:13:02: Всего строк:  6
+15:13:02: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:13:12: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:13:12: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:13:22: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:13:34: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:13:43: None
+15:13:44: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:13:44: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:13:44: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:13:44: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:13:44: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:13:44: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:13:44: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:13:44: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:13:44: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:13:44: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:13:44: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:13:44: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:13:44: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:13:44: error: 6, False, True, True, True, True, True
+15:13:44: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:15:29: Всего строк:  6
+15:15:29: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:15:39: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:15:39: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:15:40: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:15:41: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:15:41: None
+15:15:41: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:15:41: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:15:41: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:15:41: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:15:41: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:15:41: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:15:41: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:15:41: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:15:41: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:15:41: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:15:41: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:15:41: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:15:41: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:15:41: error: 6, False, True, True, True, True, True
+15:15:41: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:16:02: Всего строк:  6
+15:16:02: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:16:13: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:16:13: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:16:13: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:16:14: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:16:14: None
+15:16:14: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:16:14: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:16:14: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:16:14: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:16:14: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:16:14: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:16:14: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:16:14: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:16:14: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:16:14: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:16:14: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:16:14: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:16:14: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:16:14: error: 6, False, True, True, True, True, True
+15:16:14: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:16:49: Всего строк:  6
+15:16:49: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:00: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:17:00: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:00: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:01: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:01: None
+15:17:01: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:02: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:17:02: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:17:02: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:17:02: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:17:02: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:17:02: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:17:02: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:17:02: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:17:02: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:17:02: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:17:02: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:17:02: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:17:02: error: 6, False, True, True, True, True, True
+15:17:02: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:17:27: Всего строк:  6
+15:17:27: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:37: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:17:37: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:38: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:40: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:40: None
+15:17:40: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:17:41: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:17:41: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:17:41: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:17:41: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:17:41: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:17:41: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:17:41: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:17:41: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:17:41: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:17:41: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:17:41: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:17:41: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:17:41: error: 6, False, True, True, True, True, True
+15:17:41: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:24:24: Всего строк:  6
+15:24:24: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:24:35: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:24:35: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:24:44: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:24:56: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:25:05: None
+15:25:10: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:25:11: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:25:11: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:25:11: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:25:11: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:25:11: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:25:11: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:25:11: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:25:11: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:25:11: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:25:11: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:25:11: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:25:11: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:25:11: error: 6, False, True, True, True, True, True
+15:25:11: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:26:44: Всего строк:  6
+15:26:44: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:26:54: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:26:54: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:26:55: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:26:55: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:26:56: None
+15:26:56: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:26:57: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:26:57: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:26:57: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:26:57: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:26:57: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:26:57: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:26:57: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:26:57: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:26:57: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:26:57: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:26:57: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:26:57: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:26:57: error: 6, False, True, True, True, True, True
+15:26:57: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:27:45: Всего строк:  6
+15:27:45: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:27:55: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:27:55: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:27:55: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:27:58: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:27:58: None
+15:27:58: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:27:59: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:27:59: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:27:59: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:27:59: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:27:59: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:27:59: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:27:59: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:27:59: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:27:59: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:27:59: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:27:59: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:27:59: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:27:59: error: 6, False, True, True, True, True, True
+15:27:59: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:28:15: Всего строк:  6
+15:28:15: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:28:26: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:28:26: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:28:26: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:28:27: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:28:27: None
+15:28:27: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:28:28: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:28:28: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:28:28: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:28:28: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:28:28: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:28:28: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:28:28: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:28:28: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:28:28: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:28:28: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:28:28: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:28:28: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:28:28: error: 6, False, True, True, True, True, True
+15:28:28: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:29:01: Всего строк:  6
+15:29:01: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:29:12: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:29:12: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:29:12: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:29:13: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:29:13: None
+15:29:13: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:29:14: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:29:14: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:29:14: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:29:14: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:29:14: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:29:14: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:29:14: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:29:14: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:29:14: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:29:14: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:29:14: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:29:14: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:29:14: error: 6, False, True, True, True, True, True
+15:29:14: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:30:29: Всего строк:  6
+15:30:29: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:30:39: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:30:39: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:30:40: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:30:41: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:30:41: None
+15:30:41: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:30:42: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:30:42: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:30:42: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:30:42: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:30:42: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:30:42: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:30:42: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:30:42: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:30:42: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:30:42: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:30:42: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:30:42: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:30:42: error: 6, False, True, True, True, True, True
+15:30:42: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:32:20: Всего строк:  6
+15:32:20: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:32:30: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:32:30: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:32:41: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:32:52: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:33:02: None
+15:33:02: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:33:03: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:33:03: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:33:03: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:33:03: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:33:03: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:33:03: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:33:03: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:33:03: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:33:03: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:33:03: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:33:03: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:33:03: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:33:03: error: 6, False, True, True, True, True, True
+15:33:03: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+15:58:05: Всего строк:  6
+15:58:05: {'Kodeks': '1700804759', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:58:16: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+15:58:16: {'Kodeks': '1700780412', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:58:16: {'Kodeks': '1700780432', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:58:18: {'Kodeks': '1700780413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:58:19: None
+15:58:19: {'Kodeks': '1700780428', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+15:58:20: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+15:58:20: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+15:58:20: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+15:58:20: status: 6, No info, В норме, В норме, В норме, No info, Перезаказ
+15:58:20: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:58:20: clients: 6, Нет информации Браво Софт Браво Софт ЗАСЛОН Нет информации ПАЛФИНГЕР КРАН РУС
+15:58:20: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+15:58:20: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+15:58:20: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+15:58:20: polz: 6, No info, 0/15, 5/30, 0/50, No info, 0/10
+15:58:20: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+15:58:20: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+15:58:20: error: 6, False, True, True, True, True, True
+15:58:20: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715

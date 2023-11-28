@@ -1,0 +1,856 @@
+08:59:31: 
+
+
+Всего строк:  68
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://dream:3456',0,0,1, '', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:4545',1,0,1, '4443444112111Kodeks1121112212225554551121111701126009112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:5577',1,0,1, 'None', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:80',1,0,1, '4443444112111Kodeks1121112212225554551121111701126018112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129579112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:80',1,0,0, '4443444112111Kodeks1121112212225554551121111701127841112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701136200112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:80',1,0,0, '4443444112111Kodeks1121112212225554551121111699461976112111000100555455112111KodeksData112111221222555455112111XzE2Nzc3MzQzXzE3OTMyMDU=112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:80',1,0,0, '4443444112111Kodeks1121112212225554551121111701127282112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:1210',1,0,1, '4443444112111Kodeks1121112212225554551121111701126004112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:1212',1,0,1, '4443444112111Kodeks1121112212225554551121111701126011112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127868112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701128199112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:1010',1,0,0, '4443444112111Kodeks1121112212225554551121111701133494112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1010',1,0,0, '4443444112111Kodeks1121112212225554551121111701132875112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1100',1,0,0, '4443444112111Kodeks1121112212225554551121111701137675112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127967112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:33: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127574112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701123996112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701134291112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701133742112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701133280112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701128169112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2200',1,0,0, '4443444112111Kodeks1121112212225554551121111701138185112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130817112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129109112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701128971112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701123958112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.102.106:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131279112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701134024112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701126930112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701086498112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3300',1,0,0, '4443444112111Kodeks1121112212225554551121111701138558112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:3300',1,0,0, '4443444112111Kodeks1121112212225554551121111701132192112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130445112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701124619112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701135265112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701135982112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701134176112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132317112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129907112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130512112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130103112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701136089112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701135048112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701099102112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5500',1,0,0, '4443444112111Kodeks1121112212225554551121111701136153112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701133946112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130756112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701126049112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:7070',1,0,0, '4443444112111Kodeks1121112212225554551121111701136418112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:7070',1,0,0, '4443444112111Kodeks1121112212225554551121111701135652112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701134022112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131895112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132334112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131512112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:8080',1,0,0, '4443444112111Kodeks1121112212225554551121111699461977112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:8080',1,0,0, '4443444112111Kodeks1121112212225554551121111701131006112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:8081',1,0,0, '4443444112111Kodeks1121112212225554551121111701136899112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:8081',1,0,0, '4443444112111Kodeks1121112212225554551121111699263890112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:8082',1,0,0, '4443444112111Kodeks1121112212225554551121111701136332112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132003112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:34: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132027112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:35: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127755112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:35: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701137696112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:35: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701136855112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:35: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701131842112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+08:59:35: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9999',1,0,0, '4443444112111Kodeks1121112212225554551121111701122041112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+09:00:33: 
+
+
+Всего строк:  68
+09:02:35: 
+
+
+Всего строк:  68
+09:04:04: 
+
+
+Всего строк:  68
+09:04:22: 
+
+
+Всего строк:  68
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CC932C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CC93EC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CC935C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CC93240>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CC93440>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10EC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10DC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD116C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11840>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10C40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11B40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11E40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12240>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12640>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12340>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11DC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11C40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11140>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD128C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD114C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD102C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11AC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10DC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD119C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11340>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11F40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10FC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11E40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD120C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD125C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10EC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12240>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12640>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11BC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11EC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD121C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD124C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12540>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12740>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12BC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11FC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10C40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10B40>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD116C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11840>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11940>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD111C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11240>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10940>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12440>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12840>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12AC0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD123C0>
+09:04:25: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11540>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11440>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12940>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12D40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12DC0>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD11D40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD103C0>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12E40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12EC0>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12A40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12FC0>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12C40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12F40>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD12CC0>
+09:04:26: Запрос к БД SUNTD: <sqlite3.Cursor object at 0x000002870CD10740>
+09:05:01: 
+
+
+Всего строк:  68
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://dream:3456', '0', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:4545', '1', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:5577', '1', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:80', '1', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:1000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:80', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:4000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:80', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:80', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:1210', '1', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:1212', '1', '0', '1'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:1000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:1010', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1010', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1100', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:2000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:2000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:2020', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:2020', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2020', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:2020', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2200', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:3000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:3000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:3000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.102.106:3000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:3030', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:3030', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3030', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3300', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:3300', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:4000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:4000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:4040', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:4040', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:4040', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:5000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:5000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:5000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5050', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:5050', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:5050', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5500', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:7000', '1', '0', '0'))
+09:05:04: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:7000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:7000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:7070', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:7070', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:8000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:8000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:8000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:8000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:8080', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:8080', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:8081', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:8081', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:8082', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:9000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:9000', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:9090', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9090', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:9090', '1', '0', '0'))
+09:05:05: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9999', '1', '0', '0'))
+09:06:15: 
+
+
+Всего строк:  68
+09:06:33: 
+
+
+Всего строк:  68
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://dream:3456', '0', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:4545', '1', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:5577', '1', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:80', '1', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:1000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:80', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://REX:4000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:80', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:80', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:1210', '1', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://suntd:1212', '1', '0', '1'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:1000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:1010', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1010', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:1100', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:2000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:2000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:2020', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:2020', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2020', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:2020', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:2200', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:3000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:3000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:3000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.102.106:3000', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:3030', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:3030', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3030', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:3300', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:3300', '1', '0', '0'))
+09:06:36: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:4000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:4000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:4040', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:4040', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:4040', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:5000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:5000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:5000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5050', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:5050', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:5050', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:5500', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:7000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:7000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:7000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:7070', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:7070', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:8000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:8000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:8000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:8000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.202:8080', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:8080', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:8081', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:8081', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:8082', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.203:9000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:9000', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.112.204:9090', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9090', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://91.219.56.146:9090', '1', '0', '0'))
+09:06:37: Запрос к БД SUNTD: ('replace INTO NewBases (HostPort, Actual, Chet, SUNTD)\nVALUES (?, ?, ?, ?);\n        ', ('http://95.79.59.227:9999', '1', '0', '0'))
+10:22:06: 
+
+
+Всего строк:  68
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://dream:3456',0,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:4545',1,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:5577',1,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:80',1,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:1000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:80',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://REX:4000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:80',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:80',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:1210',1,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://suntd:1212',1,0,1);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:1000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:1010',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1010',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:1100',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:2000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:2000',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:2020',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:2020',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2020',1,0,0);
+        
+10:22:08: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:2020',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:2200',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:3000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:3000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:3000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.102.106:3000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:3030',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:3030',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3030',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:3300',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:3300',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:4000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:4000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:4040',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:4040',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:4040',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:5000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:5000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:5000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5050',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:5050',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:5050',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:5500',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:7000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:7000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:7000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:7070',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:7070',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:8000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:8000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:8000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:8000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.202:8080',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:8080',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:8081',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:8081',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:8082',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.203:9000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:9000',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.112.204:9090',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9090',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://91.219.56.146:9090',1,0,0);
+        
+10:22:09: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD)
+VALUES ('http://95.79.59.227:9999',1,0,0);
+        
+10:29:17: 
+
+
+Всего строк:  68
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://dream:3456',0,0,1, '', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:4545',1,0,1, '4443444112111Kodeks1121112212225554551121111701126009112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:5577',1,0,1, 'None', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:80',1,0,1, '4443444112111Kodeks1121112212225554551121111701126018112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129579112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:80',1,0,0, '4443444112111Kodeks1121112212225554551121111701127841112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://REX:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701136200112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:80',1,0,0, '4443444112111Kodeks1121112212225554551121111699461976112111000100555455112111KodeksData112111221222555455112111XzE2Nzc3MzQzXzE3OTMyMDU=112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:80',1,0,0, '4443444112111Kodeks1121112212225554551121111701127282112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:1210',1,0,1, '4443444112111Kodeks1121112212225554551121111701126004112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://suntd:1212',1,0,1, '4443444112111Kodeks1121112212225554551121111701126011112111000100555455112111KodeksData112111221222555455112111XzMxMzczODI1OTJfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127868112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:19: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1000',1,0,0, '4443444112111Kodeks1121112212225554551121111701128199112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:1010',1,0,0, '4443444112111Kodeks1121112212225554551121111701133494112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1010',1,0,0, '4443444112111Kodeks1121112212225554551121111701132875112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:1100',1,0,0, '4443444112111Kodeks1121112212225554551121111701137675112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127967112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127574112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:2000',1,0,0, '4443444112111Kodeks1121112212225554551121111701123996112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701134291112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701133742112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701133280112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:2020',1,0,0, '4443444112111Kodeks1121112212225554551121111701128169112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:2200',1,0,0, '4443444112111Kodeks1121112212225554551121111701138185112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130817112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129109112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701128971112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701123958112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.102.106:3000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131279112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701134024112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701126930112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3030',1,0,0, '4443444112111Kodeks1121112212225554551121111701086498112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:3300',1,0,0, '4443444112111Kodeks1121112212225554551121111701138558112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:3300',1,0,0, '4443444112111Kodeks1121112212225554551121111701132192112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130445112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:4000',1,0,0, '4443444112111Kodeks1121112212225554551121111701124619112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701135265112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701135982112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:4040',1,0,0, '4443444112111Kodeks1121112212225554551121111701134176112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132317112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701129907112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130512112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:5000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130103112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701136089112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701135048112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:5050',1,0,0, '4443444112111Kodeks1121112212225554551121111701099102112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:5500',1,0,0, '4443444112111Kodeks1121112212225554551121111701136153112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701133946112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701130756112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:7000',1,0,0, '4443444112111Kodeks1121112212225554551121111701126049112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:7070',1,0,0, '4443444112111Kodeks1121112212225554551121111701136418112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:7070',1,0,0, '4443444112111Kodeks1121112212225554551121111701135652112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701134022112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131895112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132334112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:8000',1,0,0, '4443444112111Kodeks1121112212225554551121111701131512112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.202:8080',1,0,0, '4443444112111Kodeks1121112212225554551121111699461977112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:8080',1,0,0, '4443444112111Kodeks1121112212225554551121111701131006112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:8081',1,0,0, '4443444112111Kodeks1121112212225554551121111701136899112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:8081',1,0,0, '4443444112111Kodeks1121112212225554551121111699263890112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:8082',1,0,0, '4443444112111Kodeks1121112212225554551121111701136332112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.203:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132003112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:20: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701132027112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:21: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:9000',1,0,0, '4443444112111Kodeks1121112212225554551121111701127755112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:21: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.112.204:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701137696112111000100555455112111KodeksData112111221222555455112111XzMyMTE4MDg2MDdfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:21: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701136855112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:21: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://91.219.56.146:9090',1,0,0, '4443444112111Kodeks1121112212225554551121111701131842112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        
+10:29:21: Запрос к БД SUNTD: replace INTO NewBases (HostPort, Actual, Chet, SUNTD, Cook, DataCook)
+VALUES ('http://95.79.59.227:9999',1,0,0, '4443444112111Kodeks1121112212225554551121111701122041112111000100555455112111KodeksData112111221222555455112111XzIzMTc0NDY0ODlfMTc5MzIwNQ777677112111333433', '28,11,2023');
+        

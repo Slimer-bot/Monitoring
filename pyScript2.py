@@ -197,8 +197,16 @@ for row in records:
     try:
         pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
         #print(pred[2])
-        clientwhithoutdate = pred[2].replace('\n', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
-        clients.append(clientwhithoutdate[26:])
+        result = ""
+        clientwhithoutdate = pred[2].replace('\n', '').replace('.', '').replace('B', '').replace('/', '').replace('br', '').replace('>', '').replace('<', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
+        for char in clientwhithoutdate[0:10]:
+        # Проверяем, является ли символ цифрой
+            if not char.isdigit():
+            # Если символ не является цифрой, добавляем его в конечную строку
+                result += char
+        result += clientwhithoutdate[10:]
+        #print(result)
+        clients.append(result)
     except:
         clients.append("Нет информации")
 
