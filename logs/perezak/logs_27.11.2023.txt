@@ -1,0 +1,228 @@
+08:24:55: Всего строк:  68
+08:24:55: {'Kodeks': '1701035597', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:56: {'Kodeks': '1701040356', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:56: {'Kodeks': '1701036102', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:57: {'Kodeks': '1701044543', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:57: {'Kodeks': '1701036718', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:57: {'Kodeks': '1701012715', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:58: {'Kodeks': '1701037982', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:58: {'Kodeks': '1701043344', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:24:59: {'Kodeks': '1699263816', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:03: {'Kodeks': '1701039264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:03: {'Kodeks': '1701043963', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:04: {'Kodeks': '1701043241', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:04: {'Kodeks': '1701041748', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:04: {'Kodeks': '1701043504', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:05: {'Kodeks': '1699461801', 'KodeksData': 'XzE2Nzc3MzQzXzE3OTMyMDU='}
+08:25:05: {'Kodeks': '1701045287', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:06: {'Kodeks': '1699461803', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:06: {'Kodeks': '1701044702', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:06: {'Kodeks': '1701040497', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:07: {'Kodeks': '1701045270', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:07: {'Kodeks': '1701041096', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:07: {'Kodeks': '1701045824', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:07: {'Kodeks': '1701046444', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:08: {'Kodeks': '1701042268', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:08: {'Kodeks': '1701047055', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:08: {'Kodeks': '1701048264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:08: {'Kodeks': '1701043446', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:08: {'Kodeks': '1701044077', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:09: {'Kodeks': '1701039733', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:09: {'Kodeks': '1701045744', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:09: {'Kodeks': '1701060387', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:09: {'Kodeks': '1701060473', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:10: {'Kodeks': '1701042724', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:10: {'Kodeks': '1701043553', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:10: {'Kodeks': '1701060463', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:10: {'Kodeks': '1701043950', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:11: {'Kodeks': '1701048751', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:11: {'Kodeks': '1701049346', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:11: {'Kodeks': '1701040263', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:12: {'Kodeks': '1701045058', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:12: {'Kodeks': '1701049891', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:12: {'Kodeks': '1701040822', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:12: {'Kodeks': '1701045648', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:13: {'Kodeks': '1701050462', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:13: {'Kodeks': '1701041447', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:13: {'Kodeks': '1701000105', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:13: {'Kodeks': '1701051384', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:14: {'Kodeks': '1701042102', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:14: {'Kodeks': '1701046842', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:14: {'Kodeks': '1701042690', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:14: {'Kodeks': '1701047447', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:15: {'Kodeks': '1701043248', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:15: {'Kodeks': '1701048050', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:15: {'Kodeks': '1701039684', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:16: {'Kodeks': '1701043855', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:16: {'Kodeks': '1701048651', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:16: {'Kodeks': '1701044459', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:16: {'Kodeks': '1701049261', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:17: {'Kodeks': '1701033001', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:25:17: {'Kodeks': '1701041548', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:25:17: {'Kodeks': '1701047103', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:25:17: {'Kodeks': '1701039768', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:26:59: Всего строк:  68
+08:26:59: {'Kodeks': '1701035597', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:26:59: {'Kodeks': '1701040356', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:00: {'Kodeks': '1701036102', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:00: {'Kodeks': '1701044543', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:00: {'Kodeks': '1701036718', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:00: {'Kodeks': '1701012715', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:00: {'Kodeks': '1701037982', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:01: {'Kodeks': '1701043344', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:01: {'Kodeks': '1699263816', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:01: {'Kodeks': '1701039264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:01: {'Kodeks': '1701043963', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701043241', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701041748', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701043504', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1699461801', 'KodeksData': 'XzE2Nzc3MzQzXzE3OTMyMDU='}
+08:27:02: {'Kodeks': '1701045287', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1699461803', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701044702', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701040497', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701045270', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701041096', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:02: {'Kodeks': '1701045824', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701046444', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701042268', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701047055', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701048264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701043446', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701044077', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701039733', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701045744', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701060387', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701060473', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701042724', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701043553', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701060463', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701043950', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:03: {'Kodeks': '1701048751', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:04: {'Kodeks': '1701049346', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:27:04: {'Kodeks': '1701040263', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:11: Всего строк:  68
+08:28:11: {'Kodeks': '1701035597', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:11: 2
+08:28:11: {'Kodeks': '1701040356', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:11: 3
+08:28:12: {'Kodeks': '1701036102', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:12: 4
+08:28:12: {'Kodeks': '1701044543', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:12: 5
+08:28:12: {'Kodeks': '1701036718', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:12: 6
+08:28:13: {'Kodeks': '1701012715', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:13: 7
+08:28:13: {'Kodeks': '1701037982', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:13: 8
+08:28:14: {'Kodeks': '1701043344', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:14: 9
+08:28:14: {'Kodeks': '1699263816', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:14: 10
+08:28:14: {'Kodeks': '1701039264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:14: 11
+08:28:15: {'Kodeks': '1701043963', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:15: 12
+08:28:15: {'Kodeks': '1701043241', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:15: 13
+08:28:15: {'Kodeks': '1701041748', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:15: 14
+08:28:16: {'Kodeks': '1701043504', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:16: 15
+08:28:16: {'Kodeks': '1699461801', 'KodeksData': 'XzE2Nzc3MzQzXzE3OTMyMDU='}
+08:28:16: 16
+08:28:17: {'Kodeks': '1701045287', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:17: 17
+08:28:17: {'Kodeks': '1699461803', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:17: 18
+08:28:17: {'Kodeks': '1701044702', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:17: 19
+08:28:17: {'Kodeks': '1701040497', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:17: 20
+08:28:18: {'Kodeks': '1701045270', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:18: 21
+08:28:18: {'Kodeks': '1701041096', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:18: 22
+08:28:18: {'Kodeks': '1701045824', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:18: 23
+08:28:18: {'Kodeks': '1701046444', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:18: 24
+08:28:19: {'Kodeks': '1701042268', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:19: 25
+08:28:19: {'Kodeks': '1701047055', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:19: 26
+08:28:19: {'Kodeks': '1701048264', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:19: 27
+08:28:19: {'Kodeks': '1701043446', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:19: 28
+08:28:20: {'Kodeks': '1701044077', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:20: 29
+08:28:20: {'Kodeks': '1701039733', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:20: 30
+08:28:20: {'Kodeks': '1701045744', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:20: 31
+08:28:20: {'Kodeks': '1701060387', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:20: 32
+08:28:21: {'Kodeks': '1701060473', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:21: 33
+08:28:21: {'Kodeks': '1701042724', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:21: 34
+08:28:21: {'Kodeks': '1701043553', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:21: 35
+08:28:21: {'Kodeks': '1701060463', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:21: 36
+08:28:21: {'Kodeks': '1701043950', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:21: 37
+08:28:22: {'Kodeks': '1701048751', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:22: 38
+08:28:22: {'Kodeks': '1701049346', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:22: 39
+08:28:22: {'Kodeks': '1701040263', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:22: 40
+08:28:22: {'Kodeks': '1701045058', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:22: 41
+08:28:23: {'Kodeks': '1701049891', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:23: 42
+08:28:23: {'Kodeks': '1701040822', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:23: 43
+08:28:23: {'Kodeks': '1701045648', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:23: 44
+08:28:23: {'Kodeks': '1701050462', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:23: 45
+08:28:24: {'Kodeks': '1701041447', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:24: 46
+08:28:24: {'Kodeks': '1701000105', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:24: 47
+08:28:24: {'Kodeks': '1701051384', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:24: 48
+08:28:25: {'Kodeks': '1701042102', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:25: 49
+08:28:25: {'Kodeks': '1701046842', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:25: 50
+08:28:25: {'Kodeks': '1701042690', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:25: 51
+08:28:25: {'Kodeks': '1701047447', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:25: 52
+08:28:26: {'Kodeks': '1701043248', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:26: 53
+08:28:26: {'Kodeks': '1701048050', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:26: 54
+08:28:26: {'Kodeks': '1701039684', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:26: 55
+08:28:27: {'Kodeks': '1701043855', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:27: 56
+08:28:27: {'Kodeks': '1701048651', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:27: 57
+08:28:27: {'Kodeks': '1701044459', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:27: 58
+08:28:27: {'Kodeks': '1701049261', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:27: 59
+08:28:28: {'Kodeks': '1701033001', 'KodeksData': 'XzM1OTAyNjUyN18xNzkzMjA1'}
+08:28:28: 60
+08:28:28: {'Kodeks': '1701041548', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:28:28: 61
+08:28:28: {'Kodeks': '1701047103', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:28:28: 62
+08:28:28: {'Kodeks': '1701039768', 'KodeksData': 'XzE0MjYxMDY1NjBfMTc5MzIwNQ=='}
+08:28:28: 63
