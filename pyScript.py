@@ -44,6 +44,9 @@ html_string_start = '''
     .colortext1 {
      color: blue; /* Синий цвет выделения */
     }
+    .colortext2 {
+     color: black; 
+    }
     .backgroung1{
     background-color:#f19cbb;
     color: red;
@@ -111,32 +114,11 @@ rez=[]
 perezap=[]
 #Привязка
 privyaz=[]
-#Remarks
-error=[]
-#Основной каталог
-catalog =[]
 #Ошибка
 blat=[]
-
-#cookies = {'Kodeks': '1700657012', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
-#print(cookies)
-#def LoadInfo():
     
 def make_clickable(val, v):
     return f'<a target="_blank" href="{val}">{v}</a>'
-
-def IsError(url):
-    try: r = requests.head(url)
-    except:
-        r = requests.head("http://google.com")
-        logging.info("url whith trouble: " + url)
-        r.close()
-        return False
-    if r.status_code == (200):
-        r.close()
-        return True
-    else:
-        return False
 
 def aunt(line, headers1, username, password, password1, password2, cookies):
     session = requests.Session()
@@ -161,12 +143,17 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
                 if response.ok:
                     text = response.text
                     return text
+                else:
+                    session.auth = (username, password2)
+                    response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
+                    if response.ok:
+                        text = response.text
+                        return text
+            
             except:
-                session.auth = (username, password2)
-                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
-                if response.ok:
-                    text = response.text
-                    return text
+                text = ""
+                return text
+                
         r.close()
         
     except:
@@ -263,21 +250,19 @@ for row in records:
         status.append("No info")
 
     try:
-        cat = text3.split("# Path ", 1)[1]
-        cat = cat
-        print(cat)
-        catalog.append(cat)
-        err = text3.split('kserver_main_page' and '"} ' and 'kserver_product_control')
-        #print(err[2])
-        if err[2] == "0":
-            err = "Не найдена"
-        if err == "1 update DB":
-            err = "В анализируемом каталоге обновление или подключение БД (каталог недоступен)"
-        blat.append(err)
+        lines=[]
+        lines=text3.split('\n')
+        long = len(lines)
+        string = ""
+        for i in lines:
+            if 'kserver_main_page{service="kodweb",path=' in i:
+                string += i.replace('kserver_', '').replace('status="update DB"', 'Обновление/подключение БД').replace('main_page', 'Главная страница').replace('{service="kodweb",path=', ' ').replace('"', '').replace('}', '').replace('0', 'Ошибки нет').replace('1','Ошибка ') + "\n"
+            if 'kserver_product_control{service="kodweb",path=' in i:
+                string += i.replace('kserver_', '').replace('product_control', 'Наличие предупреждения').replace('{service="kodweb",path=', ' ').replace('"', '').replace('}', '').replace('0', 'Ошибки нет').replace('1','Необходимо проверить состав БД') + "\n"
+        #print(string)
+        blat.append(string.replace('\n', '<br>'))
     except:
-        catalog.append("No info")
         blat.append("No info")
-
     try:
         rezerv = text2.split("""<INPUT TYPE="TEXT" NAME="reservtime" VALUE=""")
         rezerv = rezerv[1]
@@ -310,15 +295,12 @@ for row in records:
         polz.append("No info")
         PolzURLS.append(line5)
 
-    error.append(IsError(line.rstrip() + "/.apiDocInfo?nd=1200159302&authMode=system&source=kassist"))
-    #print(error)
     URLS.append(line4)
     sysinfoURL.append(sysinfo)
 
 #Закрываем файл
 cursor.close()
 conn.close()
-
 logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
 logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
 logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
@@ -331,7 +313,7 @@ logging.info("PolzURLS: " + str(len(PolzURLS)) + ", {}".format(', '.join(map(str
 logging.info("polz: " + str(len(polz)) + ", {}".format(', '.join(map(str, polz))))
 logging.info("perezap: " + str(len(perezap)) + ", {}".format(', '.join(map(str, perezap))))
 logging.info("privyaz: " + str(len(privyaz)) + ", {}".format(', '.join(map(str, privyaz))))
-logging.info("error: " + str(len(error)) + ", {}".format(', '.join(map(str, error))))
+logging.info("blat: " + str(len(blat)) + ", {}".format(', '.join(map(str, blat))))
 logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
 
 #Создаем датафрейм
@@ -352,7 +334,7 @@ df.insert(5,'Статус рега', status)
 df.insert(7,'Перезапуск', perezap)
 df.insert(8,'Рез. копия', rez)
 df.insert(9,'Привязка', privyaz)
-df.insert(10,'Ошибка', error)
+df.insert(10,'Ошибки системы', blat)
 
 #Переводим датафрейм в html
 html = df.to_html(index=False,escape=False) 
@@ -370,8 +352,10 @@ filedata = filedata.replace('Перезаказ', '<span class="colortext">Пе�
 filedata = filedata.replace('No info', '<span class="colortext">No info')
 filedata = filedata.replace('<td>No reg', '<td span class="backgroung1">No info')
 filedata = filedata.replace('Нет информации', 'Браво Софт')
-filedata = filedata.replace('True', '<span class="colortext1">Отсутствует')
-filedata = filedata.replace('False', '<span class="colortext">ДА!')
+filedata = filedata.replace('Ошибка', '<span class="colortext">"Ошибка"<span class="colortext2">')
+filedata = filedata.replace('Необходимо проверить состав БД', '<span class="colortext">Необходимо проверить состав БД<span class="colortext2">')
+filedata = filedata.replace('status=unexpected change list products', '<span class="colortext">Изменился состав продуктов')
+filedata = filedata.replace('status=no required volume DB', '<span class="colortext">Не подключены обязательные тома БД')
 text_file.close()
 with open('index.html', 'w') as file:
   file.write(filedata)

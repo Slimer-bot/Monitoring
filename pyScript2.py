@@ -43,6 +43,9 @@ html_string_start = '''
     .colortext1 {
      color: blue; /* Синий цвет выделения */
     }
+    .colortext2 {
+     color: black; 
+    }
     .backgroung1{
     background-color:#f19cbb;
     color: red;
@@ -105,8 +108,8 @@ privyaz=[]
 reg=[]
 #Remarks
 error=[]
-
-#def LoadInfo():
+#Ошибка
+blat=[]
     
 def make_clickable(val, v):
     return f'<a target="_blank" href="{val}">{v}</a>'
@@ -169,6 +172,7 @@ for row in records:
     line3 = line.rstrip() + "/admin/pref"
     line4 = line.rstrip() + "/admin"
     line5 = line.rstrip() + "/admin/cookies"
+    line6 = line.rstrip() + "/sysinfo/metrics"
     try:
         strokaforcook = row[4].replace("4443444","{").replace("333433","}").replace("221222",":").replace("112111","'").replace("000100",",").replace("555455"," ").replace("777677","==")
         cookies = eval(strokaforcook)
@@ -178,8 +182,9 @@ for row in records:
     text = aunt(line1, headers1, username, password, password1, password2, cookies)
     text1 = aunt(line2, headers1, username, password, password1, password2, cookies)
     text2 = aunt(line3, headers1, username, password, password1, password2, cookies)
+    text3 = aunt(line6, headers1, username, password, password1, password2, cookies)
 
-    # выводим строки
+    #выводим строки
     parts = line.split("//" and ":")
     sysinfo = line.rstrip() + "/sysinfo/si_save_request"    
     parts[2] = parts[2].rstrip()
@@ -251,6 +256,21 @@ for row in records:
     except:
         polz.append("No info")
         PolzURLS.append(line5)
+
+    try:
+        lines=[]
+        lines=text3.split('\n')
+        long = len(lines)
+        string = ""
+        for i in lines:
+            if 'kserver_main_page{service="kodweb",path=' in i:
+                string += i.replace('kserver_', '').replace('status="update DB"', 'Обновление/подключение БД').replace('main_page', 'Главная страница').replace('{service="kodweb",path=', ' ').replace('"', '').replace('}', '').replace('0', 'Ошибки нет').replace('1','Ошибка ') + "\n"
+            if 'kserver_product_control{service="kodweb",path=' in i:
+                string += i.replace('kserver_', '').replace('product_control', 'Наличие предупреждения').replace('{service="kodweb",path=', ' ').replace('"', '').replace('}', '').replace('0', 'Ошибки нет').replace('1','Необходимо проверить состав БД') + "\n"
+        #print(string)
+        blat.append(string.replace('\n', '<br>'))
+    except:
+        blat.append("No info")
     
     try:
         dateRab = text1.split("100001</td>")
@@ -294,7 +314,7 @@ logging.info("perezap: " + str(len(perezap)) + ", {}".format(', '.join(map(str, 
 logging.info("privyaz: " + str(len(privyaz)) + ", {}".format(', '.join(map(str, privyaz))))
 logging.info("error: " + str(len(error)) + ", {}".format(', '.join(map(str, error))))
 logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
-
+logging.info("blat: " + str(len(blat)) + ", {}".format(', '.join(map(str, blat))))
 
 data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS,'active/Pos': polz, 'PolzURLS': PolzURLS, 'Sysinfo': "Скачать", 'sysinfoURL': sysinfoURL}
 df = pd.DataFrame.from_dict(data)
@@ -313,7 +333,7 @@ df.insert(5,'Статус рега', status)
 df.insert(7,'Перезапуск', perezap)
 df.insert(8,'Рез. копия', rez)
 df.insert(9,'Привязка', privyaz)
-df.insert(10,'Ошибка', error)
+df.insert(10,'Ошибки системы', blat)
 
 #Переводим датафрейм в html
 html = df.to_html(index=False,escape=False)  
@@ -331,8 +351,11 @@ filedata = filedata.replace('Перезаказ', '<span class="colortext">Пе�
 filedata = filedata.replace('No info', '<span class="colortext1">No info')
 filedata = filedata.replace('<td>No reg', '<td span class="backgroung1">No info')
 filedata = filedata.replace('Нет информации', 'Браво Софт')
-filedata = filedata.replace('True', '<span class="colortext1">Отсутствует')
-filedata = filedata.replace('False', '<span class="colortext">ДА!')
+filedata = filedata.replace('Ошибка', '<span class="colortext">"Ошибка"<span class="colortext2">')
+filedata = filedata.replace('Необходимо проверить состав БД', '<span class="colortext">Необходимо проверить состав БД<span class="colortext2">')
+filedata = filedata.replace('status=unexpected change list products', '<span class="colortext">Изменился состав продуктов')
+filedata = filedata.replace('status=no required volume DB', '<span class="colortext">Не подключены обязательные тома БД')
+
 text_file.close()
 with open('index1.html', 'w') as file:
   file.write(filedata)

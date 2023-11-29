@@ -87,3 +87,8 @@
 10:30:32: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
 10:30:32: error: 6, False, True, True, True, True, True
 10:30:32: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+10:33:10: Всего строк:  6
+10:33:10: 
+10:33:20: url whith trouble: http://dream:3456/.apiDocInfo?nd=1200159302&authMode=system&source=kassist
+10:33:20: {'Kodeks': '1701126004', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+10:33:30: {'Kodeks': '1701126011', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}

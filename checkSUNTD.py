@@ -80,6 +80,8 @@ SC.append("http://95.79.112.202:80")
 SC.append("http://95.79.112.203:80")
 SC.append("http://95.79.112.204:80")
 SC.append("http://95.79.59.227:80")
+SC.append("http://91.219.56.146:80")
+SC.append("http://95.79.102.106:80")
 
 for i in range (0, len(SC)):
     D = url_ok(SC[i])
@@ -94,6 +96,7 @@ t = 0
 while i < 10000:
     i_str = str(i)
     i_str = i_str[0]
+    
     first = "http://95.79.112.201:" + str(i)
     second = "http://95.79.112.202:" + str(i)
     third = "http://95.79.112.203:" + str(i)
@@ -149,6 +152,7 @@ while i < 10000:
     if url_ok(first) == True:
         sqlInput(first, K)
         
+        
     if url_ok(second) == True:
         sqlInput(second, K)
 
@@ -163,7 +167,8 @@ while i < 10000:
 
     if url_ok(sixth) == True:
         sqlInput(sixth, K)
-
+        #print("congr")
+    #print(sixth)
     if url_ok(seventh) == True:
         sqlInput(seventh, K)
       

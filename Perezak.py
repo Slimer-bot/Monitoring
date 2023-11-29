@@ -69,7 +69,7 @@ html_string_start = '''
   </style>
   <body>
       <table>
-      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Перезаказ</a></td></tr>'
+      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Перезаказ</a> &emsp;|&emsp; <a href="output.xlsx">Скачать</a></td></tr>'
       </table>
 '''
 html_string_end = '''
@@ -105,8 +105,6 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
     
         session.auth = (username, password)
         response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
-        
-        
         #print(session.cookies.get_dict())
         if response.ok:
             text = response.text
@@ -119,12 +117,17 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
                 if response.ok:
                     text = response.text
                     return text
+                else:
+                    session.auth = (username, password2)
+                    response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
+                    if response.ok:
+                        text = response.text
+                        return text
+            
             except:
-                session.auth = (username, password2)
-                response = session.get(line, cookies=cookies, headers = {'User-Agent': headers1, 'Connection':'close'})
-                if response.ok:
-                    text = response.text
-                    return text
+                text = ""
+                return text
+                
         r.close()
         
     except:
@@ -175,7 +178,7 @@ for row in records:
         pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
         #print(pred[2])
         result = ""
-        clientwhithoutdate = pred[2].replace('\n', '').replace('.', '').replace('B', '').replace('/', '').replace('br', '').replace('>', '').replace('<', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
+        clientwhithoutdate = pred[2].replace('\n', '').replace('&quot;', '').replace('.', '').replace('B', '').replace('/', '').replace('br', '').replace('>', '').replace('<', '').replace('до ', '').replace('Зарегистрирована на: ', '').replace("Ограничение по сроку работы системы: ", "")
         for char in clientwhithoutdate[0:10]:
         # Проверяем, является ли символ цифрой
             if not char.isdigit():
@@ -221,22 +224,21 @@ logging.info("URLS: " + str(len(URLS)) + ", {}".format(', '.join(map(str, URLS))
 logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
 
 
-data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS}
+data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS, 'Corp-Trial': dater, 'Статус рега': status}
 df = pd.DataFrame.from_dict(data)
-n = len(URLS)
+#n = len(URLS)
+df1 = df.copy()
+df1 = df1.drop(['Port', 'Host', 'URLS', 'Статус рега'], axis=1)
+with pd.ExcelWriter('output.xlsx',
+                    mode='w') as writer:  
+    df1.to_excel(writer, sheet_name='Перезаказ', index=False)
 
 df.style.format(make_clickable)
 df['Clients'] = df.apply(lambda x: "<a href='{}' target='_blank'>{}</a>".format(x['URLS'], x['clients']), axis=1)
-
 df = df.drop(['clients', 'URLS'], axis=1)
-df.style
-df.insert(4,'Corp-Trial', dater)
-df.insert(5,'Статус рега', status)
-
-
 #Переводим датафрейм в html
 html = df.to_html(index=False,escape=False)  
-  
+
 # write html to file 
 text_file = open("index3.html", "w") 
 text_file.write(html_string_start + html + html_string_end) 

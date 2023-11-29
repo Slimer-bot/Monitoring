@@ -1,0 +1,742 @@
+08:23:02: Всего строк:  6
+08:23:02: 
+08:23:11: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:23:11: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:23:12: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:23:12: None
+08:23:17: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:23:18: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:23:18: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:23:18: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:23:18: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:23:18: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:23:18: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:23:18: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:23:18: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:23:18: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:23:18: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:23:18: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:23:18: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:23:18: catalog: 9, , No info, docs, No info, docs, docs, No info, docs, docs
+08:23:18: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+08:24:11: Всего строк:  6
+08:24:11: 
+08:24:19: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:24:19: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:24:19: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:24:20: None
+08:24:20: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:24:20: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:24:20: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:24:20: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:24:20: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:24:20: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:24:20: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:24:20: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:24:20: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:24:20: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:24:20: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:24:20: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:24:20: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:24:20: catalog: 9, , No info, docs, No info, docs, docs, No info, docs, docs
+08:24:20: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+08:27:21: Всего строк:  6
+08:27:21: 
+08:27:29: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:27:29: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:27:30: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:27:30: None
+08:27:31: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:27:31: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:27:31: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:27:31: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:27:31: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:27:31: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:27:31: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:27:31: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:27:31: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:27:31: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:27:31: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:27:31: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:27:31: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:27:31: catalog: 9, , No info, docs, No info, docs, docs, No info, docs, docs
+08:27:31: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+08:28:37: Всего строк:  6
+08:28:37: 
+08:28:45: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:28:54: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:04: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:13: None
+08:29:14: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:14: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:29:14: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:29:14: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:29:14: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:29:14: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:29:14: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:29:14: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:29:14: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:29:14: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:29:14: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:29:14: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:29:14: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:29:14: catalog: 9, , No info, docs, No info, docs, docs, No info, docs, docs
+08:29:14: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+08:29:39: Всего строк:  6
+08:29:39: 
+08:29:47: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:47: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:47: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:47: None
+08:29:47: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:29:48: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:29:48: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:29:48: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:29:48: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:29:48: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:29:48: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:29:48: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:29:48: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:29:48: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:29:48: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:29:48: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:29:48: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:29:48: catalog: 6, No info, No info, docs, No info, docs, docs
+08:29:48: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+08:32:50: Всего строк:  6
+08:32:50: 
+08:32:58: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:32:58: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:32:59: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:33:00: None
+08:33:00: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+08:33:00: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+08:33:00: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+08:33:00: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+08:33:00: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+08:33:00: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:33:00: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+08:33:00: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+08:33:00: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+08:33:00: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+08:33:00: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+08:33:00: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+08:33:00: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+08:33:00: catalog: 6, No info, No info, docs, No info, docs, docs
+08:33:00: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+09:22:55: Всего строк:  6
+09:22:55: 
+09:23:03: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:23:13: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:23:15: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:23:24: None
+09:23:24: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:23:25: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+09:23:25: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+09:23:25: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, No info, 01.12.2023
+09:23:25: status: 6, No info, В норме, В норме, Перезаказ, No info, Перезаказ
+09:23:25: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:23:25: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+09:23:25: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+09:23:25: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:23:25: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+09:23:25: polz: 6, No info, 0/15, 4/30, 2/50, No info, 1/10
+09:23:25: perezap: 6, No info, 2:00, 02:00, 2:00, No info, 2:00
+09:23:25: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, локальная -  [работает]
+09:23:25: catalog: 6, No info, No info, docs, No info, docs, docs
+09:23:25: reg: 6, No reg, 460_350832, 460_350278, 619_340544, No reg, 460_436715
+09:25:12: Всего строк:  6
+09:25:12: 
+09:25:20: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:25:20: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:25:21: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:25:21: None
+09:25:21: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+09:25:22: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+09:25:22: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+09:25:22: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+09:25:22: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+09:25:22: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:25:22: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+09:25:22: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+09:25:22: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+09:25:22: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+09:25:22: polz: 6, No info, 0/15, 4/30, 2/50, 2/21, 1/10
+09:25:22: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+09:25:22: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+09:25:22: catalog: 6, No info, No info, docs, No info, docs, docs
+09:25:22: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:09:39: Всего строк:  6
+11:09:39: 
+11:09:47: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:09:57: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:10:11: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:13:57: Всего строк:  6
+11:13:57: 
+11:14:06: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:14:06: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:14:07: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:14:12: None
+11:14:27: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:14:27: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:14:27: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:14:27: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:14:27: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:14:27: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:14:27: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:14:27: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:14:27: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:14:27: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:14:27: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:14:27: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:14:27: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:14:27: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:14:58: Всего строк:  6
+11:14:58: 
+11:15:06: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:15:06: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:15:06: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:15:06: None
+11:15:06: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:15:07: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:15:07: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:15:07: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:15:07: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:15:07: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:15:07: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:15:07: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:15:07: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:15:07: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:15:07: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:15:07: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:15:07: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:15:07: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:37:00: Всего строк:  6
+11:37:00: 
+11:37:08: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:37:18: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:37:28: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:37:37: None
+11:40:46: Всего строк:  6
+11:40:46: 
+11:40:54: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:41:04: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:41:13: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:41:23: None
+11:41:28: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:41:28: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:41:28: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:41:28: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:41:28: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:41:28: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:41:28: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:41:28: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:41:28: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:41:28: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:41:28: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:41:28: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:41:28: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:41:28: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:43:57: Всего строк:  6
+11:43:57: 
+11:44:05: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:06: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:07: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:07: None
+11:44:45: Всего строк:  6
+11:44:45: 
+11:44:53: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:53: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:53: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:53: None
+11:44:53: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:44:54: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:44:54: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:44:54: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:44:54: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:44:54: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:44:54: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:44:54: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:44:54: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:44:54: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:44:54: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:44:54: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:44:54: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:44:54: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:45:40: Всего строк:  6
+11:45:40: 
+11:45:48: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:45:48: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:45:48: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:45:49: None
+11:45:49: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:45:49: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:45:49: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:45:49: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:45:49: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:45:49: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:45:49: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:45:49: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:45:49: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:45:49: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:45:49: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:45:49: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:45:49: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:45:49: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:49:42: Всего строк:  6
+11:49:42: 
+11:49:51: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:50:00: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:50:10: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:51:55: Всего строк:  6
+11:51:55: 
+11:52:04: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:04: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:04: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:04: None
+11:52:14: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:14: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:52:14: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:52:14: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:52:14: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:52:14: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:52:14: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:52:14: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:52:14: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:52:14: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:52:14: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:52:14: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:52:14: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:52:14: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:52:44: Всего строк:  6
+11:52:44: 
+11:52:52: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:52: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:53: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:54: None
+11:52:54: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:52:54: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+11:52:54: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+11:52:54: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+11:52:54: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+11:52:54: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:52:54: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+11:52:54: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+11:52:54: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+11:52:54: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+11:52:54: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+11:52:54: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+11:52:54: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+11:52:54: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+11:58:56: Всего строк:  6
+11:58:56: 
+11:59:04: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:59:14: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+11:59:24: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:02:35: Всего строк:  6
+12:02:35: 
+12:02:44: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:02:44: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:02:45: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:02:46: None
+12:03:00: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:03:00: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:03:00: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:03:00: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:03:00: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:03:00: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:03:00: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:03:00: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:03:00: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:03:00: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:03:00: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:03:00: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:03:00: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:03:00: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:04:22: Всего строк:  6
+12:04:22: 
+12:04:30: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:04:31: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:04:31: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:04:31: None
+12:04:31: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:04:32: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:04:32: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:04:32: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:04:32: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:04:32: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:04:32: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:04:32: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:04:32: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:04:32: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:04:32: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:04:32: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:04:32: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:04:32: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:11:09: Всего строк:  6
+12:11:09: 
+12:11:17: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:11:26: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:11:37: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:11:46: None
+12:11:47: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:11:47: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:11:47: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:11:47: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:11:47: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:11:47: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:11:47: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:11:47: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:11:47: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:11:47: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:11:47: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:11:47: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:11:47: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:11:47: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:12:12: Всего строк:  6
+12:12:12: 
+12:12:20: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:12:21: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:12:22: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:12:22: None
+12:12:53: Всего строк:  6
+12:12:53: 
+12:13:01: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:01: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:02: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:02: None
+12:13:02: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:02: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:13:02: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:13:02: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:13:02: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:13:02: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:13:02: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:13:02: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:13:02: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:13:02: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:13:02: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:13:02: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:13:02: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:13:02: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:13:31: Всего строк:  6
+12:13:31: 
+12:13:39: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:39: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:40: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:40: None
+12:13:40: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:13:40: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:13:40: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:13:40: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:13:40: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:13:40: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:13:40: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:13:40: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:13:40: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:13:40: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:13:40: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:13:40: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:13:40: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:13:40: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:22:50: Всего строк:  6
+12:22:50: 
+12:22:58: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:23:07: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:23:18: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:23:28: None
+12:23:42: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:23:43: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:23:43: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:23:43: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:23:43: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:23:43: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:23:43: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:23:43: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:23:43: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:23:43: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:23:43: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:23:43: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:23:43: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:23:43: blat: 6, , Главная страница /docs Ошибки нет
+product_control /docs Ошибки нет
+, Главная страница /docs Ошибки нет
+product_control /docs Ошибки нет
+Главная страница /lite Ошибки нет
+product_control /lite Ошибки нет
+Главная страница /bnd Ошибки нет
+product_control /bnd Ошибки нет
+Главная страница /test Ошибки нет
+product_control /test Ошибки нет
+, Главная страница /docs Ошибки нет
+product_control /docs Ошибки нет
+, Главная страница /docs Ошибки нет
+product_control /docs Ошибки нет
+Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка 
+product_control /gmz Ошибка 
+Главная страница /bank Ошибки нет
+product_control /bank Ошибки нет
+, Главная страница /docs Ошибки нет
+product_control /docs Ошибки нет
+Главная страница /bank Ошибки нет
+product_control /bank Ошибка 
+
+12:23:43: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:25:24: Всего строк:  6
+12:25:24: 
+12:25:32: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:25:32: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:25:33: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:25:33: None
+12:25:33: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:25:33: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:25:33: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:25:33: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:25:33: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:25:33: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:25:33: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:25:33: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:25:33: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:25:33: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:25:33: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:25:33: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:25:33: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:25:33: blat: 6, , Главная страница /docs Ошибки нет< br>product_control /docs Ошибки нет< br>, Главная страница /docs Ошибки нет< br>product_control /docs Ошибки нет< br>Главная страница /lite Ошибки нет< br>product_control /lite Ошибки нет< br>Главная страница /bnd Ошибки нет< br>product_control /bnd Ошибки нет< br>Главная страница /test Ошибки нет< br>product_control /test Ошибки нет< br>, Главная страница /docs Ошибки нет< br>product_control /docs Ошибки нет< br>, Главная страница /docs Ошибки нет< br>product_control /docs Ошибки нет< br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка < br>product_control /gmz Ошибка < br>Главная страница /bank Ошибки нет< br>product_control /bank Ошибки нет< br>, Главная страница /docs Ошибки нет< br>product_control /docs Ошибки нет< br>Главная страница /bank Ошибки нет< br>product_control /bank Ошибка < br>
+12:25:33: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:30:48: Всего строк:  6
+12:30:48: 
+12:30:56: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:31:06: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:31:17: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:31:27: None
+12:31:27: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:31:27: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:31:27: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:31:27: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:31:27: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:31:27: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:31:27: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:31:27: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:31:27: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:31:27: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:31:27: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:31:27: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:31:27: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:31:27: blat: 6, , Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>product_control /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>product_control /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>product_control /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>product_control /gmz Ошибка <br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибка <br>
+12:31:27: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:32:30: Всего строк:  6
+12:32:30: 
+12:32:38: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:32:38: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:32:40: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:32:40: None
+12:32:50: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:32:50: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:32:50: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:32:50: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:32:50: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:32:50: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:32:50: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:32:50: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:32:50: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:32:50: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:32:50: polz: 6, No info, 0/15, 5/30, 2/50, 2/21, 1/10
+12:32:50: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:32:50: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:32:50: blat: 6, , Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>product_control /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>product_control /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>product_control /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>product_control /gmz Ошибка <br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибка <br>
+12:32:50: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+12:36:33: Всего строк:  6
+12:36:33: 
+12:36:42: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:36:42: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:36:42: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:36:42: None
+12:36:42: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+12:36:43: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+12:36:43: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+12:36:43: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+12:36:43: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+12:36:43: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:36:43: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+12:36:43: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+12:36:43: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+12:36:43: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+12:36:43: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+12:36:43: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+12:36:43: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+12:36:43: blat: 6, , Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>product_control /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>product_control /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>product_control /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>product_control /gmz Ошибка <br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>product_control /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>product_control /bank Ошибка <br>
+12:36:43: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:00:53: Всего строк:  6
+13:00:53: 
+13:01:01: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:11: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:21: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:31: None
+13:01:44: Всего строк:  6
+13:01:44: 
+13:01:52: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:52: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:53: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:53: None
+13:01:53: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:01:54: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:01:54: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:01:54: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:01:54: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:01:54: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:01:54: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:01:54: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:01:54: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:01:54: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:01:54: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+13:01:54: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:01:54: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:01:54: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,Изменился состав продуктов Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:01:54: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:02:52: Всего строк:  6
+13:02:52: 
+13:03:01: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:03:01: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:03:02: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:03:02: None
+13:03:12: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:03:12: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:03:12: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:03:12: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:03:12: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:03:12: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:03:12: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:03:12: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:03:12: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:03:12: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:03:12: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+13:03:12: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:03:12: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:03:12: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:03:12: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:04:02: Всего строк:  6
+13:04:02: 
+13:04:10: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:04:10: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:04:11: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:04:11: None
+13:04:11: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:04:11: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:04:11: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:04:11: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:04:11: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:04:11: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:04:11: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:04:11: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:04:11: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:04:11: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:04:11: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+13:04:11: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:04:11: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:04:11: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:04:11: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:09:00: Всего строк:  6
+13:09:00: 
+13:09:08: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:09:18: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:09:29: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:09:39: None
+13:09:39: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:09:39: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:09:39: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:09:39: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:09:39: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:09:39: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:09:39: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:09:39: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:09:39: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:09:39: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:09:39: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+13:09:39: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:09:39: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:09:39: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:09:39: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:12:02: Всего строк:  6
+13:12:02: 
+13:12:10: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:12:10: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:12:12: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:12:12: None
+13:12:21: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:12:22: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:12:22: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:12:22: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:12:22: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:12:22: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:12:22: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:12:22: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:12:22: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:12:22: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:12:22: polz: 6, No info, 0/15, 5/30, 3/50, 2/21, 1/10
+13:12:22: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:12:22: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:12:22: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:12:22: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:29:51: Всего строк:  6
+13:29:51: 
+13:29:59: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:30:09: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:30:19: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:30:29: None
+13:30:43: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:30:43: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:30:43: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:30:43: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:30:43: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:30:43: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:30:43: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:30:43: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:30:43: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:30:43: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:30:43: polz: 6, No info, 0/15, 4/30, 2/50, 2/21, 1/10
+13:30:43: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:30:43: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:30:43: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:30:43: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:32:40: Всего строк:  6
+13:32:40: 
+13:32:49: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:32:49: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:32:50: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:32:50: None
+13:33:00: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:33:00: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:33:00: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:33:00: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:33:00: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:33:00: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:33:00: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:33:00: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:33:00: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:33:00: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:33:00: polz: 6, No info, 0/15, 4/30, 2/50, 2/21, 1/10
+13:33:00: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:33:00: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:33:00: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:33:00: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715
+13:34:03: Всего строк:  6
+13:34:03: 
+13:34:11: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:34:12: {'Kodeks': '1701212413', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:34:12: {'Kodeks': '1701212403', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:34:12: None
+13:34:12: {'Kodeks': '1701212415', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:34:13: hosts: 6, dream, suntd, suntd, suntd, suntd, suntd
+13:34:13: Ports: 6, 3456, 1210, 1212, 4545, 5577, 80
+13:34:13: dater: 6, No info, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, 01.12.2023
+13:34:13: status: 6, No info, В норме, В норме, Перезаказ, В норме, Перезаказ
+13:34:13: stat: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:34:13: clients: 6, Нет информации  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot;
+13:34:13: URLS: 6, http://dream:3456/admin, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://suntd:80/admin
+13:34:13: sysinfoURL: 6, http://dream:3456/sysinfo/si_save_request, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:34:13: PolzURLS: 6, http://dream:3456/admin/cookies, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies
+13:34:13: polz: 6, No info, 0/15, 4/30, 2/50, 2/21, 1/10
+13:34:13: perezap: 6, No info, 2:00, 02:00, 2:00, 23:00, 2:00
+13:34:13: privyaz: 6, No info, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], локальная -  [работает]
+13:34:13: blat: 6, , Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /lite Ошибки нет<br>Наличие предупреждения /lite Ошибки нет<br>Главная страница /bnd Ошибки нет<br>Наличие предупреждения /bnd Ошибки нет<br>Главная страница /test Ошибки нет<br>Наличие предупреждения /test Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>, Главная страница /docs,status=unexpected change list products Ошибка <br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Необходимо проверить состав БД<br>
+13:34:13: reg: 6, No reg, 460_350832, 460_350278, 619_340544, 619_340548, 460_436715

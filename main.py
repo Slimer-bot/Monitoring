@@ -15,13 +15,6 @@ logging.info("Служба запущена")
 def job_1():
     logging.info("1 thread running...")
     try:
-        os.startfile("Cook.exe")
-        sleep(20)
-    except:
-        logging.info("Cook.exe can't start running...")
-    
-    logging.info("2 thread running...")
-    try:
         os.startfile("DataCheck.exe")
         sleep(15)
     except:
@@ -49,9 +42,17 @@ def job_2():
     logging.info("5 thread running...")
     try:
         os.startfile("checkSUNTD.exe")
+        sleep(600)
     except:
         logging.info("checkSUNTD.exe can't start running...")
-
+    logging.info("2 thread running...")
+    try:
+        os.startfile("Cook.exe")
+        
+    except:
+        logging.info("Cook.exe can't start running...")
+    
+    
 schedule.every(5).minutes.do(job_1)
 schedule.every(1).hours.do(job_2)
 
