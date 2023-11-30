@@ -52,7 +52,8 @@ SUNTDstr.append("http://suntd:9000")
 SUNTDstr.append("http://suntd:41197")
 SUNTDstr.append("http://suntd:80")
 SUNTDstr.append("http://dream:3456")
-
+SUNTDstr.append("http://dream:3535")
+SUNTDstr.append("http://dream:8080")
 for i in range (0, len(SUNTDstr)):
     D = url_ok(SUNTDstr[i])
     if D == True:

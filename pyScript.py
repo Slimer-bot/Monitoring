@@ -16,65 +16,20 @@ logging.basicConfig(filename = "logs/Script/logs_" + current_date + ".txt", form
 current_date = datetime.strptime(current_date, '%d.%m.%Y')
 
 html_string_start = '''
-<html>
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
     <title>Мониторинг установок Техэксперт | СУНТД</title>
  <link rel="icon" href="suntd.ico" type="image/x-icon">
  <link rel="shortcut icon" href="suntd.ico" type="image/x-icon">
- <style>
-    table {
-        border-collapse: collapse;
-        font-size: 13px;
-        font-family: SegoeUI, sans-serif;
-        background-color: white;
-        border: 1px solid #000;
-        border-radius: 5px;
-        margin-top: -15px;
-	margin-bottom: 20px;
-    }
-    
-    th, td {
-        padding: 6px;
-        text-align: left;
-        border: 1px solid #000;
-        border-radius: 0;
-    }
-    .colortext {
-     color: red; /* Красный цвет выделения */
-    }
-    .colortext1 {
-     color: blue; /* Синий цвет выделения */
-    }
-    .colortext2 {
-     color: black; 
-    }
-    .backgroung1{
-    background-color:#f19cbb;
-    color: red;
-    }
-    th {
-        border-collapse: collapse;
-	background-color: #228B22;
-        color: #FFFFFF;
-        font-weight: normal;
-	font-size: 14px;
-    }
-    
-    tr:nth-child(even) {
-        
-    }
-
-    tr:last-child td:first-child {
-        border-bottom-left-radius: 5px;
-    }
-
-    tr:last-child td:last-child {
-        border-bottom-right-radius: 5px;
-    }
-  </style>
+ <link rel="stylesheet" href="CSS/style.css"> 
+ </head>
   <body>
       <table>
-      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Перезаказ</a></td></tr>'
-      </table>
+	  <thead>
+      <tr><th style="border-radius:0px"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Смена рега</a></th></tr>'
+       </thead>
+	  </table>
 '''
 html_string_end = '''
   </body>
@@ -87,6 +42,11 @@ password1 = "skedoks"
 password2 = "skedok"
 password = "kodeks"
 headers1 = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
+#неактивные установки
+Inactivity = 0
+#Все возможные установки
+Allposactivity = 0
+
 
 #Рег
 reg=[]
@@ -165,7 +125,8 @@ cursor = conn.cursor()
 sqlite_select_query = """SELECT * from NewBases WHERE SUNTD = 1 ORDER BY HostPort """
 cursor.execute(sqlite_select_query)
 records = cursor.fetchall()
-logging.info("Всего строк:  " + str(len(records)))
+Allposactivity = str(len(records))
+logging.info("Всего строк:  " + Allposactivity)
 for row in records:
     # считываем строку
     line = row[0]
@@ -204,6 +165,8 @@ for row in records:
         reg.append(registr[34:])
     except:
         reg.append("No reg")
+        Inactivity += 1
+        
     try:
         pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
         #print(pred[2])
@@ -301,6 +264,9 @@ for row in records:
 #Закрываем файл
 cursor.close()
 conn.close()
+
+Activity = int(Allposactivity) - Inactivity
+
 logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
 logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
 logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
@@ -356,10 +322,18 @@ filedata = filedata.replace('Ошибка', '<span class="colortext">"Ошибк
 filedata = filedata.replace('Необходимо проверить состав БД', '<span class="colortext">Необходимо проверить состав БД<span class="colortext2">')
 filedata = filedata.replace('status=unexpected change list products', '<span class="colortext">Изменился состав продуктов')
 filedata = filedata.replace('status=no required volume DB', '<span class="colortext">Не подключены обязательные тома БД')
+filedata = filedata.replace('table border="1" class="dataframe"', 'table')
+
 text_file.close()
 with open('index.html', 'w') as file:
   file.write(filedata)
-
-
-
+text_file = open("index0.html", "r")
+filedata = text_file.read()
+start = filedata.find('ActiveSUNTD:')  
+end = filedata.rfind('</a>&emsp;|&emsp;')  # rfind возвращает позицию с конца строки
+substring = filedata[start:end]
+filedata = filedata.replace(substring, 'ActiveSUNTD: ' + str(Activity) + '/' + Allposactivity + '</a>') 
+text_file.close()
+with open('index0.html', 'w') as file:
+  file.write(filedata)
 #df.to_html('index.html', justify='center', border=3, escape=False, classes='table table-striped')

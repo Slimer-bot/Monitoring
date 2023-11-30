@@ -13,64 +13,20 @@ logging.basicConfig(filename = "logs/perezak/logs_" + current_date + ".txt", for
 current_date = datetime.strptime(current_date, '%d.%m.%Y')
 
 html_string_start = '''
-<html>
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
     <title>Мониторинг установок Техэксперт | СУНТД</title>
- <link rel="icon" href="favicon.ico" type="image/x-icon">
+ <link rel="icon" href="suntd.ico" type="image/x-icon">
  <link rel="shortcut icon" href="suntd.ico" type="image/x-icon">
- <style>
-    table {
-        border-collapse: collapse;
-        font-size: 13px;
-        font-family: SegoeUI, sans-serif;
-        background-color: white;
-        border: 1px solid #000;
-        border-radius: 5px;
-        margin-top: -15px;
-	margin-bottom: 20px;
-    }
-    
-    th, td {
-        padding: 6px;
-        text-align: left;
-        border: 1px solid #000;
-        border-radius: 0;
-    }
-    
-    .colortext {
-     color: red; /* Красный цвет выделения */
-    }
-    
-    .colortext1 {
-     color: blue; /* Синий цвет выделения */
-    }
-    .backgroung1{
-    background-color:#f19cbb;
-    color: red;
-    }
-    th {
-        border-collapse: collapse;
-	background-color: #228B22;
-        color: #FFFFFF;
-        font-weight: normal;
-	font-size: 14px;
-    }
-    
-    tr:nth-child(even) {
-        
-    }
-
-    tr:last-child td:first-child {
-        border-bottom-left-radius: 5px;
-    }
-
-    tr:last-child td:last-child {
-        border-bottom-right-radius: 5px;
-    }
-  </style>
+ <link rel="stylesheet" href="CSS/style.css"> 
+ </head>
   <body>
       <table>
-      <tr><td colspan="5" style="text-align: left; font: bold 14px SegoeUI; background-color:#228B22"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Перезаказ</a> &emsp;|&emsp; <a href="output.xlsx">Скачать</a></td></tr>'
-      </table>
+	  <thead>
+      <tr><th style="border-radius:0px"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Смена рега</a>&emsp;|&emsp; <a href="output.xlsx">Скачать</a></th></tr>'
+       </thead>
+	  </table>
 '''
 html_string_end = '''
   </body>
@@ -254,6 +210,7 @@ filedata = filedata.replace('<td>No reg', '<td span class="backgroung1">No info'
 filedata = filedata.replace('Нет информации', 'Браво Софт')
 filedata = filedata.replace('True', '<span class="colortext1">Отсутствует')
 filedata = filedata.replace('False', '<span class="colortext">ДА!')
+filedata = filedata.replace('table border="1" class="dataframe"', 'table')
 text_file.close()
 with open('index3.html', 'w') as file:
   file.write(filedata)    
