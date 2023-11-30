@@ -1,0 +1,27 @@
+body{
+	background: url("img/bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.form1{
+	
+	border-radius: 10px;
+	background-color: white;
+	width: 450px;
+	padding: 15px;
+	margin: 50px auto;
+	position: fixed; top: 33%; left: 33%;
+	text-align: center;
+}
+
+h1{
+	font-family: Monaco;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+p{
+	font-family:Perpetua;
+	font-size: 20px;
+	margin-bottom: 45px;
+}
