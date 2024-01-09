@@ -25,3 +25,15 @@ p{
 	font-size: 20px;
 	margin-bottom: 45px;
 }
+
+nav{
+	border-radius: 10px;
+	background-color: white;
+	width: 350px;
+	height: 150px;
+	padding: 15px;
+	margin: 50px auto;
+	position: fixed; top: 65%; left: 60%;
+}
+nav ul{height:130px; width: 300px;}
+nav ul{overflow:hidden; overflow-y:scroll;}

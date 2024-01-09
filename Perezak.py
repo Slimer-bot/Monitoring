@@ -15,20 +15,31 @@ current_date = datetime.strptime(current_date, '%d.%m.%Y')
 html_string_start = '''
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
-    <title>Мониторинг установок Техэксперт | СУНТД</title>
- <link rel="icon" href="suntd.ico" type="image/x-icon">
- <link rel="shortcut icon" href="suntd.ico" type="image/x-icon">
- <link rel="stylesheet" href="CSS/style.css"> 
- </head>
-  <body>
-      <table>
-	  <thead>
-      <tr><th style="border-radius:0px"><a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Смена рега</a>&emsp;|&emsp; <a href="output.xlsx">Скачать</a></th></tr>'
-       </thead>
-	  </table>
+<head>
+<title>Мониторинг установок Техэксперт | СУНТД</title>
+<link rel="icon" href="suntd.ico" type="image/x-icon">
+<link rel="shortcut icon" href="suntd.ico" type="image/x-icon">
+<link rel="stylesheet" href="CSS/style.css"> 
+</head>
+<div class="sticky" align="center">
+      <a href="index0.html"><img src="CSS/img/ico/bravo_soft.ico" height="50" /> </a>&emsp;|&emsp; <a href="index1.html">Клиенты Техэксперт</a> &emsp;|&emsp; <a href="index.html">Клиенты СУНТД</a> &emsp;|&emsp; <a href="index2.html">Служебки</a> &emsp;|&emsp; <a href="index3.html">Смена рега</a> &emsp;|&emsp; <a href="output.xlsx">Скачать</a><div class="NewYear">С наступающим Новым 2024 годом!!!&emsp;&emsp;<img src="CSS/img/ico/elka.png" height="50" /></div>
+</div>
 '''
 html_string_end = '''
+<script src="js/snowstorm-min.js"></script>
+
+<script>
+
+	window.onload = function() {
+
+		snowStorm.snowColor = "#fff"; // Цвет снежинок
+		snowStorm.flakesMaxActive = 100; // Максимальное количество видимых снежинок
+		snowStorm.followMouse = true; // true - гоняться за курсором, false - нет
+		snowStorm.snowCharacter = "&bull;"; // Вид снежинки
+
+	};
+
+</script>
   </body>
 </html>
 '''
@@ -46,6 +57,9 @@ status=[]
 clients=[]
 URLS=[]
 reg=[]
+#Дата рега
+dater1=[]
+
 index=0
 def make_clickable(val, v):
     return f'<a target="_blank" href="{val}">{v}</a>'
@@ -92,7 +106,7 @@ def aunt(line, headers1, username, password, password1, password2, cookies):
 
 conn = sqlite3.connect("SUNTD.db", timeout=1500)
 cursor = conn.cursor()
-sqlite_select_query = """SELECT * from NewBases ORDER BY HostPort"""
+sqlite_select_query = """SELECT * from NewBases Where Actual = 1 ORDER BY HostPort"""
 cursor.execute(sqlite_select_query)
 records = cursor.fetchall()
 logging.info("Всего строк:  " + str(len(records)))
@@ -152,39 +166,74 @@ for row in records:
         #print(dateRab[1][25:35])
         dater.append(dateRab[1][25:35])
         dateRab = datetime.strptime(dateRab[1][25:35], '%d.%m.%Y')
-        if (current_date >= dateRab):
+        try:
+            pred = text.split("\nЗарегистрирована на: <B>" and "</B><BR>")
+            #print(pred[2])
+            result = ""
+            clientwhithoutdate = pred[2].replace('до', '').replace('B', '').replace('\n', '').replace('br', '').replace('>', '').replace('<', '').replace("Ограничение по сроку работы системы: ", "").replace(' ', '')
+            result += clientwhithoutdate[0:10]
+            #print(result)
+            dater1.append(result)
+            try:
+                result = datetime.strptime(result, '%d.%m.%Y')
+                #print(result)
+            except:
+                result = dateRab
+        except:
+            dater1.append("No info")
+        if (current_date >= dateRab or current_date >= result):
             status.append("Просрочена")
+            #print(dateRab)
         else:
             dateRab = dateRab - timedelta(days=28)
-            if (current_date >= dateRab):
+            result = result - timedelta(days=28)
+            if (current_date >= dateRab or current_date >= result):
                 status.append("Перезаказ")
         
             else:
+                
                 hosts.pop()
                 Ports.pop()
                 URLS.pop()
                 reg.pop()
                 dater.pop()
                 clients.pop()
-        
+                dater1.pop()
     except:
         dater.append("No info")
         status.append("No info")
 
+for i in range(len(dater1)):
+ 
+    # replace hardik with shardul
+    if dater1[i] == 'Зарегистри':
+        dater1[i] = 'Без срока'
+
 logging.info("hosts: " + str(len(hosts)) + ", {}".format(', '.join(map(str, hosts))))
 logging.info("Ports: " + str(len(Ports)) + ", {}".format(', '.join(map(str, Ports))))
 logging.info("dater: " + str(len(dater)) + ", {}".format(', '.join(map(str, dater))))
+logging.info("dater1: " + str(len(dater1)) + ", {}".format(', '.join(map(str, dater1))))
 logging.info("status: " + str(len(status)) + ", {}".format(', '.join(map(str, status))))
 logging.info("clients: " + str(len(clients)) + ", {}".format(' '.join(map(str, clients))))
 logging.info("URLS: " + str(len(URLS)) + ", {}".format(', '.join(map(str, URLS))))
 logging.info("reg: " + str(len(reg)) + ", {}".format(', '.join(map(str, reg))))
+#Удаляем лишние данные из списков, если есть
+while len(dater) > len(hosts):
+    dater.pop()
+    logging.info("dater удален")
+while len(dater1) > len(hosts):
+    dater1.pop()
+    logging.info("dater1 удален")
+while len(status) > len(hosts):
+    status.pop()
+    logging.info("status удален")
 
-
-data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS, 'Corp-Trial': dater, 'Статус рега': status}
+    
+data = {'Reg': reg,'Host': hosts, 'Port': Ports, 'clients': clients, 'URLS': URLS, 'Corp-Trial': dater, 'Срок службы': dater1, 'Статус рега': status}
 df = pd.DataFrame.from_dict(data)
 #n = len(URLS)
 df1 = df.copy()
-df1 = df1.drop(['Port', 'Host', 'URLS', 'Статус рега'], axis=1)
+df1 = df1.drop(['URLS', 'Статус рега'], axis=1)
 with pd.ExcelWriter('output.xlsx',
                     mode='w') as writer:  
     df1.to_excel(writer, sheet_name='Перезаказ', index=False)
@@ -211,6 +260,9 @@ filedata = filedata.replace('Нет информации', 'Браво Софт'
 filedata = filedata.replace('True', '<span class="colortext1">Отсутствует')
 filedata = filedata.replace('False', '<span class="colortext">ДА!')
 filedata = filedata.replace('table border="1" class="dataframe"', 'table')
+filedata = filedata.replace('<tr style="text-align: right;">', '<tr class="sticky1">')
+filedata = filedata.replace('Без срока', '<span class="colortext1">Без срока')
 text_file.close()
 with open('index3.html', 'w') as file:
   file.write(filedata)    
+ 

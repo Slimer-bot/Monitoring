@@ -1,0 +1,8 @@
+09:37:55: URL: http://suntd:4545 congr
+09:37:55: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:4545', 0, 1);
+        
+09:38:00: URL: http://suntd:5577 congr
+09:38:00: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:5577', 0, 1);
+        

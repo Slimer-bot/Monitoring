@@ -1,5 +1,5 @@
 d:
-cd D:\USR\www\Для_доработок
+cd D:\main\Monitoring\Monitoring v.1.2
 pyinstaller -F --noconsole --onefile -i "D:\USR\www\suntd.ico" checkSUNTD.py
 pyinstaller -F --noconsole --onefile -i "D:\USR\www\suntd.ico" DataCheck.py
 pyinstaller -F --noconsole --onefile -i "D:\USR\www\suntd.ico" Cook.py

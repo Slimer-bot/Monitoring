@@ -1,0 +1,144 @@
+10:15:37: URL: http://suntd:4545 congr
+10:15:37: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:4545', 1);
+        
+10:15:42: URL: http://suntd:5577 congr
+10:15:42: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:5577', 1);
+        
+10:15:57: URL: http://suntd:80 congr
+10:15:57: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:80', 1);
+        
+10:16:05: URL: http://REX:1000 congr
+10:16:05: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:1000', 0);
+        
+10:16:05: URL: http://REX:80 congr
+10:16:05: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:80', 0);
+        
+10:16:05: URL: http://REX:4000 congr
+10:16:05: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:4000', 0);
+        
+10:16:05: URL: http://95.79.112.201:80 congr
+10:16:05: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.112.201:80', 0);
+        
+10:16:05: URL: http://95.79.112.202:80 congr
+10:16:05: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.112.202:80', 0);
+        
+10:16:10: URL: http://91.219.56.146:80 congr
+10:16:10: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://91.219.56.146:80', 0);
+        
+10:16:10: URL: http://95.79.102.106:80 congr
+10:16:10: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.102.106:80', 0);
+        
+10:16:10: URL: http://suntd:1210 congr
+10:16:10: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:1210', 1);
+        
+10:16:17: URL: http://suntd:1212 congr
+10:16:17: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:1212', 1);
+        
+10:34:39: URL: http://suntd:4545 congr
+10:34:39: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:4545', 1);
+        
+10:34:44: URL: http://suntd:5577 congr
+10:34:44: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:5577', 1);
+        
+10:34:59: URL: http://suntd:80 congr
+10:34:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:80', 1);
+        
+10:35:06: URL: http://REX:1000 congr
+10:35:06: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:1000', 0);
+        
+10:35:06: URL: http://REX:80 congr
+10:35:06: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:80', 0);
+        
+10:35:06: URL: http://REX:4000 congr
+10:35:06: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://REX:4000', 0);
+        
+10:35:06: URL: http://95.79.112.201:80 congr
+10:35:06: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.112.201:80', 0);
+        
+10:35:06: URL: http://95.79.112.202:80 congr
+10:35:06: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.112.202:80', 0);
+        
+10:35:12: URL: http://91.219.56.146:80 congr
+10:35:12: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://91.219.56.146:80', 0);
+        
+10:35:12: URL: http://95.79.102.106:80 congr
+10:35:12: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://95.79.102.106:80', 0);
+        
+10:35:12: URL: http://suntd:1210 congr
+10:35:12: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:1210', 1);
+        
+10:35:19: URL: http://suntd:1212 congr
+10:35:19: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, SUNTD)
+VALUES ('http://suntd:1212', 1);
+        
+10:45:32: URL: http://suntd:4545 congr
+10:45:32: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:4545', 0, 1);
+        
+10:45:37: URL: http://suntd:5577 congr
+10:45:37: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:5577', 0, 1);
+        
+10:45:52: URL: http://suntd:80 congr
+10:45:52: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:80', 0, 1);
+        
+10:45:59: URL: http://REX:1000 congr
+10:45:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://REX:1000', 0, 0);
+        
+10:45:59: URL: http://REX:80 congr
+10:45:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://REX:80', 0, 0);
+        
+10:45:59: URL: http://REX:4000 congr
+10:45:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://REX:4000', 0, 0);
+        
+10:45:59: URL: http://95.79.112.201:80 congr
+10:45:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://95.79.112.201:80', 0, 0);
+        
+10:45:59: URL: http://95.79.112.202:80 congr
+10:45:59: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://95.79.112.202:80', 0, 0);
+        
+10:46:04: URL: http://91.219.56.146:80 congr
+10:46:04: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://91.219.56.146:80', 0, 0);
+        
+10:46:04: URL: http://95.79.102.106:80 congr
+10:46:04: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://95.79.102.106:80', 0, 0);
+        
+10:46:04: URL: http://suntd:1210 congr
+10:46:04: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:1210', 0, 1);
+        
+10:46:12: URL: http://suntd:1212 congr
+10:46:12: Запрос к БД SUNTD: INSERT OR IGNORE INTO  Bases (HostPort, Chet, SUNTD)
+VALUES ('http://suntd:1212', 0, 1);
+        

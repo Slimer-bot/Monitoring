@@ -1,0 +1,42 @@
+15:43:40: {'Kodeks': '1703026921', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:43:49: {'Kodeks': '1703098926', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:43:50: None
+15:43:55: {'Kodeks': '1703026967', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:43:56: Всего строк:  8
+15:43:56: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+15:43:56: Ports: 8, 1210, 1212, 5577, 80, 3456, 3535, 8080, 4545
+15:43:56: dater: 8, 15.02.2024, 15.02.2024, 01.02.2024, 01.01.2024, No info, No info, No info, No info
+15:43:56: status: 8, В норме, В норме, В норме, Перезаказ, No info, No info, No info, No info
+15:43:56: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request
+15:43:56: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot; Нет информации Нет информации Нет информации Нет информации
+15:43:56: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:5577/admin, http://suntd:80/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:4545/admin
+15:43:56: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request
+15:43:56: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies, No info, No info, No info, No info
+15:43:56: polz: 8, 0/15, 5/30, 0/21, 0/10, No info, No info, No info, No info
+15:43:56: perezap: 8, 2:00, 02:00, 23:00, 2:00, No info, No info, No info, No info
+15:43:56: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+15:43:56: blat: 8, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <button class="button-48" value='<br>Главная страница /docs Ошибки нет<br><br>Наличие предупреждения /docs Ошибки нет<br><br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6   <br><br>Наличие предупреждения /gmz Необходимо проверить состав БД<br><br>Главная страница /bank Ошибки нет<br><br>Наличие предупреждения /bank Ошибки нет<br>'  type="button" onclick='f1(this)'><span class="text">Ошибка!!!<br>Подробнее</span></button>, <button class="button-48" value='<br>Главная страница /docs Ошибки нет<br><br>Наличие предупреждения /docs Необходимо проверить состав БД<br><br>Главная страница /bank Ошибки нет<br><br>Наличие предупреждения /bank Необходимо проверить состав БД<br>'  type="button" onclick='f1(this)'><span class="text">Ошибка!!!<br>Подробнее</span></button>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>
+15:43:56: reg: 8, 460_350832, 460_350278, 619_340548, 460_436715, No reg, No reg, No reg, No reg
+15:43:56: rez: 8, 00:25, 00:25, 00:00, 00:00, No info, No info, No info, No info
+15:43:56: dater1: 8, 15.02.2024, 15.02.2024, 01.02.2024, 01.01.2024, No info, No info, No info, No info
+15:44:40: {'Kodeks': '1703026921', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:44:40: {'Kodeks': '1703098926', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:44:40: None
+15:44:50: {'Kodeks': '1703026967', 'KodeksData': 'XzE1MTEwMzY4MF8xNzkzMjA1'}
+15:44:50: Всего строк:  8
+15:44:50: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+15:44:50: Ports: 8, 1210, 1212, 5577, 80, 3456, 3535, 8080, 4545
+15:44:50: dater: 8, 15.02.2024, 15.02.2024, 01.02.2024, 01.01.2024, No info, No info, No info, No info
+15:44:50: status: 8, В норме, В норме, В норме, Перезаказ, No info, No info, No info, No info
+15:44:50: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request
+15:44:50: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot;  ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ПАЛФИНГЕР КРАН РУС&quot; Нет информации Нет информации Нет информации Нет информации
+15:44:50: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:5577/admin, http://suntd:80/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:4545/admin
+15:44:50: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request
+15:44:50: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:5577/admin/cookies, http://suntd:80/admin/cookies, No info, No info, No info, No info
+15:44:50: polz: 8, 0/15, 5/30, 0/21, 0/10, No info, No info, No info, No info
+15:44:50: perezap: 8, 2:00, 02:00, 23:00, 2:00, No info, No info, No info, No info
+15:44:50: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+15:44:50: blat: 8, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <button class="button-48" value='<br>Главная страница /docs Ошибки нет<br><br>Наличие предупреждения /docs Ошибки нет<br><br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6   <br><br>Наличие предупреждения /gmz Необходимо проверить состав БД<br><br>Главная страница /bank Ошибки нет<br><br>Наличие предупреждения /bank Ошибки нет<br>'  type="button" onclick='f1(this)'><span class="text">Ошибка!!!<br>Подробнее</span></button>, <button class="button-48" value='<br>Главная страница /docs Ошибки нет<br><br>Наличие предупреждения /docs Необходимо проверить состав БД<br><br>Главная страница /bank Ошибки нет<br><br>Наличие предупреждения /bank Необходимо проверить состав БД<br>'  type="button" onclick='f1(this)'><span class="text">Ошибка!!!<br>Подробнее</span></button>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>, <div class="Error">Ошибки нет<div>
+15:44:50: reg: 8, 460_350832, 460_350278, 619_340548, 460_436715, No reg, No reg, No reg, No reg
+15:44:50: rez: 8, 00:25, 00:25, 00:00, 00:00, No info, No info, No info, No info
+15:44:50: dater1: 8, 15.02.2024, 15.02.2024, 01.02.2024, 01.01.2024, No info, No info, No info, No info

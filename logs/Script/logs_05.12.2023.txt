@@ -1,0 +1,408 @@
+13:07:22: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:07:23: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:07:30: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:07:40: None
+13:07:40: Всего строк:  8
+13:07:40: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+13:07:40: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+13:07:40: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, No info, No info, No info, No info, No info
+13:07:40: status: 8, В норме, В норме, Перезаказ, No info, No info, No info, No info, No info
+13:07:40: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:07:40: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot; Нет информации Нет информации Нет информации Нет информации Нет информации
+13:07:40: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+13:07:40: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:07:40: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+13:07:40: polz: 8, 1/15, 5/30, 0/50, No info, No info, No info, No info, No info
+13:07:40: perezap: 8, 2:00, 02:00, 2:00, No info, No info, No info, No info, No info
+13:07:40: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], No info, No info, No info, No info, No info
+13:07:40: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+13:07:40: reg: 8, 460_350832, 460_350278, 619_340544, No reg, No info, No info, No info, No info
+13:07:40: rez: 8, 00:25, 00:25, 00:00, No info, No reg, No reg, No reg, No reg
+13:07:40: dater1: 7, 15.02.2024, 15.02.2024, 26.12.2023, No info, No info, No info, No info
+13:15:57: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:15:57: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:15:58: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+13:16:07: None
+13:16:16: Всего строк:  8
+13:16:16: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+13:16:16: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+13:16:16: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+13:16:16: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+13:16:16: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:16:16: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+13:16:16: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+13:16:16: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+13:16:16: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+13:16:16: polz: 8, 1/15, 5/30, 0/50, 0/21, No info, No info, No info, No info
+13:16:16: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+13:16:16: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+13:16:16: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+13:16:16: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+13:16:16: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+13:16:16: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:08:55: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:08:55: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:08:56: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:08:57: None
+14:09:10: Всего строк:  8
+14:09:10: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:09:10: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:09:10: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:09:10: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:09:10: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:09:10: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:09:10: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:09:10: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:09:10: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:09:10: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:09:10: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:09:10: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:09:10: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);">
+          <option value="Ошибка">Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>Подробнее</td>
+</option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:09:10: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:09:10: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:09:10: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:10:50: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:10:50: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:10:51: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:10:51: None
+14:10:51: Всего строк:  8
+14:10:51: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:10:51: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:10:51: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:10:51: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:10:51: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:10:51: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:10:51: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:10:51: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:10:51: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:10:51: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:10:51: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:10:51: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:10:51: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);">
+          <option value="Ошибка">Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+</option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:10:51: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:10:51: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:10:51: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:12:08: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:12:17: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:12:28: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:12:37: None
+14:12:37: Всего строк:  8
+14:12:37: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:12:37: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:12:37: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:12:37: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:12:37: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:12:37: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:12:37: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:12:37: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:12:37: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:12:37: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:12:37: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:12:37: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:12:37: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value="Ошибка">Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:12:37: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:12:37: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:12:37: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:14:03: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:14:04: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:14:04: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:14:04: None
+14:14:04: Всего строк:  8
+14:14:04: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:14:04: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:14:04: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:14:04: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:14:04: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:14:04: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:14:04: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:14:04: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:14:04: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:14:04: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:14:04: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:14:04: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:14:04: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value="Ошибка">Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:14:04: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:14:04: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:14:04: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:15:25: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:15:25: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:15:25: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:15:25: None
+14:15:26: Всего строк:  8
+14:15:26: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:15:26: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:15:26: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:15:26: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:15:26: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:15:26: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:15:26: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:15:26: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:15:26: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:15:26: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:15:26: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:15:26: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:15:26: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value='Ошибка'>Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:15:26: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:15:26: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:15:26: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:16:24: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:16:24: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:16:24: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:16:24: None
+14:16:24: Всего строк:  8
+14:16:24: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:16:24: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:16:24: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:16:25: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:16:25: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:16:25: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:16:25: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:16:25: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:16:25: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:16:25: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:16:25: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:16:25: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:16:25: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value='Ошибка'>Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:16:25: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:16:25: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:16:25: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:19:08: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:19:09: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:19:10: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:19:10: None
+14:19:19: Всего строк:  8
+14:19:19: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:19:19: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:19:19: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:19:19: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:19:19: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:19:19: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:19:19: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:19:19: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:19:19: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:19:19: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:19:19: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:19:19: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:19:19: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value='Ошибка'>Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:19:19: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:19:19: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:19:19: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:24:09: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:24:18: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:24:29: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:24:38: None
+14:24:38: Всего строк:  8
+14:24:38: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:24:38: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:24:38: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:24:38: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:24:38: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:24:38: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:24:38: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:24:38: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:24:38: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:24:38: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:24:38: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:24:38: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:24:38: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><br>
+          <option value='Ошибка'>Ошибка</option>
+          <option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td>
+<br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:24:38: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:24:38: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:24:38: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:27:13: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:27:14: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:27:15: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+14:27:15: None
+14:27:16: Всего строк:  8
+14:27:16: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+14:27:16: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+14:27:16: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+14:27:16: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+14:27:16: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:27:16: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+14:27:16: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+14:27:16: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+14:27:16: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+14:27:16: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+14:27:16: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+14:27:16: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+14:27:16: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td><br></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+14:27:16: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+14:27:16: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+14:27:16: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:39:28: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:39:29: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:39:30: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:39:30: None
+16:39:44: Всего строк:  8
+16:39:44: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:39:44: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:39:44: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:39:44: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:39:44: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:39:44: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:39:44: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:39:44: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:39:44: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:39:44: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:39:44: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:39:44: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:39:44: blat: 8, Ошибки нет, Ошибки нет, Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td></option>, Ошибки нет, Ошибки нет, Ошибки нет, Ошибки нет
+16:39:44: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:39:44: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:39:44: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:41:35: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:41:35: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:41:35: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:41:35: None
+16:41:36: Всего строк:  8
+16:41:36: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:41:36: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:41:36: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:41:36: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:41:36: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:41:36: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:41:36: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:41:36: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:41:36: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:41:36: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:41:36: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:41:36: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:41:36: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет<br>Наличие предупреждения /docs Ошибки нет<br>Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка <br>Наличие предупреждения /gmz Необходимо проверить состав БД<br>Главная страница /bank Ошибки нет<br>Наличие предупреждения /bank Ошибки нет<br>'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:41:36: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:41:36: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:41:36: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:43:13: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:43:23: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:43:33: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:43:43: None
+16:43:43: Всего строк:  8
+16:43:43: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:43:43: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:43:43: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:43:43: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:43:43: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:43:43: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:43:43: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:43:43: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:43:43: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:43:43: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:43:43: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:43:43: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:43:43: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нетНаличие предупреждения /docs Ошибки нетГлавная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка Наличие предупреждения /gmz Необходимо проверить состав БДГлавная страница /bank Ошибки нетНаличие предупреждения /bank Ошибки нет'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:43:43: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:43:43: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:43:43: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:44:39: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:44:40: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:44:40: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:44:40: None
+16:44:40: Всего строк:  8
+16:44:40: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:44:40: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:44:40: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:44:40: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:44:40: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:44:40: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:44:40: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:44:40: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:44:40: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:44:40: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:44:40: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:44:40: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:44:40: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет
+Наличие предупреждения /docs Ошибки нет
+Главная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка 
+Наличие предупреждения /gmz Необходимо проверить состав БД
+Главная страница /bank Ошибки нет
+Наличие предупреждения /bank Ошибки нет
+'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:44:40: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:44:40: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:44:40: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:46:11: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:11: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:11: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:12: None
+16:46:12: Всего строк:  8
+16:46:12: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:46:12: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:46:12: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:46:12: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:46:12: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:46:12: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:46:12: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:46:12: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:46:12: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:46:12: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:46:12: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:46:12: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:46:12: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет\nНаличие предупреждения /docs Ошибки нет\nГлавная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка \nНаличие предупреждения /gmz Необходимо проверить состав БД\nГлавная страница /bank Ошибки нет\nНаличие предупреждения /bank Ошибки нет\n'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:46:12: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:46:12: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:46:12: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:46:46: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:46: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:47: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:46:47: None
+16:46:48: Всего строк:  8
+16:46:48: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:46:48: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:46:48: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:46:48: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:46:48: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:46:48: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:46:48: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:46:48: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:46:48: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:46:48: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:46:48: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:46:48: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:46:48: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нет\nНаличие предупреждения /docs Ошибки нет\nГлавная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка \nНаличие предупреждения /gmz Необходимо проверить состав БД\nГлавная страница /bank Ошибки нет\nНаличие предупреждения /bank Ошибки нет\n'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:46:48: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:46:48: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:46:48: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:54:09: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:54:18: {'Kodeks': '1701730826', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:54:29: {'Kodeks': '1701730816', 'KodeksData': 'XzMxMzczODI1OTJfMTc5MzIwNQ=='}
+16:54:37: None
+16:54:42: Всего строк:  8
+16:54:42: hosts: 8, suntd, suntd, suntd, suntd, dream, dream, dream, suntd
+16:54:42: Ports: 8, 1210, 1212, 4545, 5577, 3456, 3535, 8080, 80
+16:54:42: dater: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info
+16:54:42: status: 8, В норме, В норме, Перезаказ, В норме, No info, No info, No info, No info
+16:54:42: stat: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:54:42: clients: 8,  ООО &quot;Браво Софт&quot;  ООО &quot;Браво Софт&quot;  АКЦИОНЕРНОЕ ОБЩЕСТВО &quot;ЗАСЛОН&quot;  ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ&quot; Нет информации Нет информации Нет информации Нет информации
+16:54:42: URLS: 8, http://suntd:1210/admin, http://suntd:1212/admin, http://suntd:4545/admin, http://suntd:5577/admin, http://dream:3456/admin, http://dream:3535/admin, http://dream:8080/admin, http://suntd:80/admin
+16:54:42: sysinfoURL: 8, http://suntd:1210/sysinfo/si_save_request, http://suntd:1212/sysinfo/si_save_request, http://suntd:4545/sysinfo/si_save_request, http://suntd:5577/sysinfo/si_save_request, http://dream:3456/sysinfo/si_save_request, http://dream:3535/sysinfo/si_save_request, http://dream:8080/sysinfo/si_save_request, http://suntd:80/sysinfo/si_save_request
+16:54:42: PolzURLS: 8, http://suntd:1210/admin/cookies, http://suntd:1212/admin/cookies, http://suntd:4545/admin/cookies, http://suntd:5577/admin/cookies, No info, No info, No info, No info
+16:54:42: polz: 8, 1/15, 6/30, 1/50, 0/21, No info, No info, No info, No info
+16:54:42: perezap: 8, 2:00, 02:00, 2:00, 23:00, No info, No info, No info, No info
+16:54:42: privyaz: 8, SenseLock ключ -  [работает], SenseLock ключ -  [работает], локальная -  [работает], локальная -  [работает], No info, No info, No info, No info
+16:54:42: blat: 8, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <select onChange="myNewFunction(this);"><option value='Ошибка'>Ошибка</option><option value='Главная страница /docs Ошибки нетНаличие предупреждения /docs Ошибки нетГлавная страница /gmz,status=no required volume DB: 7475.db6, 7476.db6 Ошибка Наличие предупреждения /gmz Необходимо проверить состав БДГлавная страница /bank Ошибки нетНаличие предупреждения /bank Ошибки нет'>Подробнее</td></option>, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет, <span class="colortext1">Ошибки нет
+16:54:42: reg: 8, 460_350832, 460_350278, 619_340544, 619_340548, No info, No info, No info, No info
+16:54:42: rez: 8, 00:25, 00:25, 00:00, 00:00, No reg, No reg, No reg, No reg
+16:54:42: dater1: 8, 15.02.2024, 15.02.2024, 26.12.2023, 01.02.2024, No info, No info, No info, No info

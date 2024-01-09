@@ -19,24 +19,29 @@ def job_1():
         os.startfile("Cook.exe")
     except:
         logging.info("Cook.exe can't start running...")
+    time.sleep(15)
     logging.info("2 thread running...")
     
     try:
         os.startfile("DataCheck.exe")
+        
     except:
         logging.info("DataCheck.exe can't start running...")
-
+    time.sleep(15)
     logging.info("3 thread running...")
     try:
         os.startfile("pyScript.exe")
+        
     except:
         logging.info("pyScript.exe can't start running...")
-
+    time.sleep(120)
     logging.info("4 thread running...")
     try:
         os.startfile("pyScript2.exe")
+        
     except:
         logging.info("pyScript2.exe can't start running...")
+    time.sleep(120)
     logging.info("6 thread running...")
     try:
         os.startfile("perezak.exe")
@@ -53,7 +58,7 @@ def job_2():
     
     
     
-schedule.every(5).minutes.do(job_1)
+schedule.every(10).minutes.do(job_1)
 schedule.every(1).hours.do(job_2)
 
 
